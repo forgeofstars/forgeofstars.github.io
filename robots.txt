@@ -1,1 +1,1 @@
-Sitemap: /Forge-of-Stars/sitemap.xml
+Sitemap: /sitemap.xml
