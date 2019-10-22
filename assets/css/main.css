@@ -3,7 +3,7 @@
 /* sunrise syntax highlighting (base16) */
 .author__urls.social-icons .fa, .page__footer-follow .social-icons .svg-inline--fa { color: inherit; }
 
-/*! Minimal Mistakes Jekyll Theme 4.17.0 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
+/*! Minimal Mistakes Jekyll Theme 4.17.1 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
 /* Variables */
 /* ========================================================================== Variables ========================================================================== */
 /* Typography ========================================================================== */
@@ -1122,6 +1122,8 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .task-list li { list-style-type: none; }
 
 .task-list .task-list-item-checkbox { margin-right: 0.5em; opacity: 1; }
+
+.task-list .task-list { margin-left: 1em; }
 
 /* Alignment ========================================================================== */
 /* clearfix */
