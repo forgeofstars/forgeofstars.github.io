@@ -1730,4 +1730,16 @@ a.reversefootnote:hover { text-decoration: underline; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
 
+.page { padding-right: 0; }
+
+th { border-bottom: 1px solid #8c806e; }
+
+td { border-bottom: 0px solid #8c806e; }
+
+tr, td, th { padding-bottom: 0.2em; padding-top: 0.2em; }
+
+tr:nth-child(even) { background-color: #ebdeca; }
+
+tr:nth-child(odd) { background-color: #e2cba4; }
+
 /*# sourceMappingURL=main.css.map */
