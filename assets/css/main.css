@@ -3,7 +3,7 @@
 /* sunrise syntax highlighting (base16) */
 .author__urls.social-icons .fa, .page__footer-follow .social-icons .svg-inline--fa { color: inherit; }
 
-/*! Minimal Mistakes Jekyll Theme 4.17.1 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
+/*! Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
 /* Variables */
 /* ========================================================================== Variables ========================================================================== */
 /* Typography ========================================================================== */
@@ -860,7 +860,7 @@ tr, td, th { vertical-align: middle; }
 .toc__menu li ul li ul li ul li ul li ul > li a { padding-left: 3.25rem; }
 
 /* ========================================================================== FOOTER ========================================================================== */
-.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; /* sticky footer fix start */ position: absolute; bottom: 0; height: auto; /* sticky footer fix end */ margin-top: 3em; color: #0e2431; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: #f9b248; }
+.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; margin-top: 3em; color: #0e2431; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: #f9b248; }
 
 .page__footer::after { clear: both; content: ""; display: table; }
 
@@ -1275,6 +1275,10 @@ a.reversefootnote:hover { text-decoration: underline; }
 #main::after { clear: both; content: ""; display: table; }
 
 @media (min-width: 80em) { #main { max-width: 1280px; } }
+
+body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 100vh; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
+
+.initial-content, .search-content { flex: 1 0 auto; }
 
 @media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 200px; } }
 
