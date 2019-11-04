@@ -1770,4 +1770,8 @@ p + .tags { margin-top: -0.75em; }
 
 .tags dd:after { content: ""; display: block; }
 
+.damage-type { text-shadow: #000 1px 1px, #000 1px -1px, #000 -1px 1px, #000 -1px -1px; }
+
+.laser { filter: hue-rotate(310deg) brightness(0.6) saturate(3); }
+
 /*# sourceMappingURL=main.css.map */
