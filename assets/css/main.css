@@ -3,7 +3,7 @@
 /* sunrise syntax highlighting (base16) */
 .author__urls.social-icons .fa, .page__footer-follow .social-icons .svg-inline--fa { color: inherit; }
 
-/*! Minimal Mistakes Jekyll Theme 4.17.0 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
+/*! Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */
 /* Variables */
 /* ========================================================================== Variables ========================================================================== */
 /* Typography ========================================================================== */
@@ -860,7 +860,7 @@ tr, td, th { vertical-align: middle; }
 .toc__menu li ul li ul li ul li ul li ul > li a { padding-left: 3.25rem; }
 
 /* ========================================================================== FOOTER ========================================================================== */
-.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; /* sticky footer fix start */ position: absolute; bottom: 0; height: auto; /* sticky footer fix end */ margin-top: 3em; color: #0e2431; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: #f9b248; }
+.page__footer { clear: both; float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; margin-top: 3em; color: #0e2431; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.45s; animation-delay: 0.45s; background-color: #f9b248; }
 
 .page__footer::after { clear: both; content: ""; display: table; }
 
@@ -1123,6 +1123,8 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 
 .task-list .task-list-item-checkbox { margin-right: 0.5em; opacity: 1; }
 
+.task-list .task-list { margin-left: 1em; }
+
 /* Alignment ========================================================================== */
 /* clearfix */
 .cf { clear: both; }
@@ -1273,6 +1275,10 @@ a.reversefootnote:hover { text-decoration: underline; }
 #main::after { clear: both; content: ""; display: table; }
 
 @media (min-width: 80em) { #main { max-width: 1280px; } }
+
+body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 100vh; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
+
+.initial-content, .search-content { flex: 1 0 auto; }
 
 @media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 200px; } }
 
@@ -1727,5 +1733,41 @@ a.reversefootnote:hover { text-decoration: underline; }
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+
+hr { margin: 0.5em 0; }
+
+.page { padding-right: 0; }
+
+.search__toggle { color: #000; }
+
+.page__title { border-bottom: 1px solid #baaa92; padding-bottom: 0.5em; }
+
+.page__content p { margin-bottom: .75em; }
+
+.page__content h1, h2, h3, h4, h5, h6 { margin-top: 1.5em; }
+
+.page__content dd { font-size: 1em; }
+
+th { border-bottom: 1px solid #8c806e; }
+
+td { border-bottom: 0px solid #8c806e; }
+
+tr, td, th { padding-bottom: 0.2em; padding-top: 0.2em; }
+
+tr:nth-child(even) { background-color: #ebdeca; }
+
+tr:nth-child(odd) { background-color: #e2cba4; }
+
+.traits { margin: 0; padding-left: 0; }
+
+.trait { display: inline; background: #5f1616; border: #eec201 3px solid; color: #fff; padding: 2px 10px; font-size: 0.75em !important; text-transform: uppercase; }
+
+p + .tags { margin-top: -0.75em; }
+
+.tags { margin: 0; }
+
+.tags dt, .tags dd { display: inline; }
+
+.tags dd:after { content: ""; display: block; }
 
 /*# sourceMappingURL=main.css.map */
