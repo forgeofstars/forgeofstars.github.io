@@ -1734,13 +1734,27 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
 
-.page { padding-right: 0; }
+hr { margin: 0.125em 0; }
+
+.page { padding-right: 20px; }
+
+.page__footer { height: 0; font-size: 0; }
 
 .search__toggle { color: #000; }
 
-.page__content p { margin-bottom: .75em; }
+.navicon { color: #000; background-color: #000; }
 
-.page__content h1, h2, h3, h4, h5, h6 { margin-top: 1.5em; }
+.navicon::before { color: #000; background-color: #000; }
+
+.navicon::after { color: #000; background-color: #000; }
+
+.page__title { border-bottom: 1px solid #baaa92; padding-bottom: 0.5em; }
+
+.page__content p { margin-bottom: .25em; }
+
+.page__content h2 { padding-bottom: .25em; }
+
+.page__content dd { font-size: 1em; }
 
 th { border-bottom: 1px solid #8c806e; }
 
@@ -1751,5 +1765,19 @@ tr, td, th { padding-bottom: 0.2em; padding-top: 0.2em; }
 tr:nth-child(even) { background-color: #ebdeca; }
 
 tr:nth-child(odd) { background-color: #e2cba4; }
+
+.traits { margin: -.5em 0 0 0; padding-left: 0; }
+
+.trait { display: inline; background: #5f1616; border: #ceb566 2px solid; color: #fff; padding: 1px 8px; font-size: 0.75em !important; text-transform: uppercase; }
+
+.tags { margin: 0; }
+
+.tags dt, .tags dd { display: inline; }
+
+.tags dd:after { content: ""; display: block; }
+
+.inline-icon { height: 1.3em; margin-top: -0.2em; }
+
+.alignright { float: right; }
 
 /*# sourceMappingURL=main.css.map */
