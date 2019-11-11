@@ -1770,11 +1770,15 @@ tr:nth-child(odd) { background-color: #e2cba4; }
 
 .trait { display: inline; background: #5f1616; border: #ceb566 2px solid; color: #fff; padding: 1px 8px; font-size: 0.75em !important; text-transform: uppercase; }
 
-.tags { margin: 0; }
+.page__content dl { margin: 0; }
 
-.tags dt, .tags dd { display: inline; }
+.page__content dl + dl { margin-top: 0.25em; }
 
-.tags dd:after { content: ""; display: block; }
+.page__content dt, dd { display: inline; }
+
+dd:after { content: ""; display: block; }
+
+h1, h2 + .tags { margin: -.5em 0 0 0; }
 
 .inline-icon { height: 1.3em; margin-top: -0.2em; }
 

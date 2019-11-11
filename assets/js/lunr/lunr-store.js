@@ -5,7 +5,7 @@ var store = [
 
       {
         "title": "All Powers",
-        "excerpt": "Basic Powers \r \r \r   \r     Name\r     Type\r     Description\r   \r   \r     \r       \r           Administer First Aid\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Drop Prone\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Interact\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Leap\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Release\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Seek\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Sense Motive\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Stand\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Step\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Stride\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Strike\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Take Aim\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Take Cover\r       \r       \r           \r         \r       \r     \r   \r \r \r Learned Powers \r \r \r   \r     Name\r     School\r     Tier\r     Type\r     Description\r   \r   \r     \r       \r           Crane Stance\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dragon Stance\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Flurry\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Incredible Movement\r       \r       Acrobat\r       Novice\r       \r       \r     \r   \r     \r       \r           Reactive Pursuit\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Sleeper Hold\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Wall Run\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Water Step\r       \r       Acrobat\r       Veteran\r       \r       \r     \r   \r     \r       \r           Winding Flow\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Enduring Quickness\r       \r       Acrobat\r       Epic\r       \r       \r     \r   \r     \r       \r           Swift River\r       \r       Acrobat\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Hunt Prey\r       \r       Assassin\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Camouflage\r       \r       Assassin\r       Veteran\r       \r       \r     \r   \r     \r       \r           Double Prey\r       \r       Assassin\r       Master\r       \r       \r     \r   \r     \r       \r           Master Strike\r       \r       Assassin\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Brutish Shove\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Power Attack\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Rage\r       \r       Berserker\r       Novice\r       \r           \r         \r       You enter a furious rage, gaining offensive power at the cost of defense\r     \r   \r     \r       \r           Sudden Charge\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Swipe\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Cleave\r       \r       Berserker\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Giant's Stature\r       \r       Berserker\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Savage Critical\r       \r       Berserker\r       Epic\r       \r       \r     \r   \r     \r       \r           Deflect Bullet\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Parry\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Lunge\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Bullet Snatching\r       \r       Duelist\r       Veteran\r       \r       \r     \r   \r     \r       \r           Disarming Stance\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Riposte\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Guardian's Deflection\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Dance\r       \r       Duelist\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Guiding Riposte\r       \r       Duelist\r       Master\r       \r       \r     \r   \r     \r       \r           Improved Dueling Riposte\r       \r       Duelist\r       Master\r       \r       \r     \r   \r     \r       \r           Boundless Reprisals\r       \r       Duelist\r       Epic\r       \r       \r     \r   \r     \r       \r           Nimble Dodge\r       \r       Rogue\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Quick Draw\r       \r       Rogue\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Sneak Attack\r       \r       Rogue\r       Novice\r       \r       \r     \r   \r     \r       \r           Unbalancing Blow\r       \r       Rogue\r       Novice\r       \r       \r     \r   \r     \r       \r           Nimble Roll\r       \r       Rogue\r       Veteran\r       \r       \r     \r   \r     \r       \r           Sly Striker\r       \r       Rogue\r       Veteran\r       \r       \r     \r   \r     \r       \r           Defensive Roll\r       \r       Rogue\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Impossible Striker\r       \r       Rogue\r       Epic\r       \r       \r     \r   \r     \r       \r           Far Shot\r       \r       Sniper\r       Novice\r       \r       \r     \r   \r     \r       \r           Deadly Aim\r       \r       Sniper\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Incredible Aim\r       \r       Sniper\r       Veteran",
+        "excerpt": "Basic Powers \r \r \r   \r     Name\r     Type\r     Description\r   \r   \r     \r       \r           Administer First Aid\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Drop Prone\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Interact\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Leap\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Release\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Seek\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Sense Motive\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Stand\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Step\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Stride\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Strike\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Take Aim\r       \r       \r           \r         \r       \r     \r   \r     \r       \r           Take Cover\r       \r       \r           \r         \r       \r     \r   \r \r \r Learned Powers \r \r \r   \r     Name\r     School\r     Tier\r     Type\r     Description\r   \r   \r     \r       \r           Crane Stance\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Fantastic Leap\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Flurry of Blows\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Incredible Movement\r       \r       Acrobat\r       Novice\r       \r       \r     \r   \r     \r       \r           Reactive Pursuit\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Stunning Fist\r       \r       Acrobat\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Agile Grace\r       \r       Acrobat\r       Veteran\r       \r       \r     \r   \r     \r       \r           Sleeper Hold\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Wall Run\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Water Step\r       \r       Acrobat\r       Veteran\r       \r       \r     \r   \r     \r       \r           Winding Flow\r       \r       Acrobat\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Whirlwind Strike\r       \r       Acrobat\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Enduring Quickness\r       \r       Acrobat\r       Epic\r       \r       \r     \r   \r     \r       \r           Swift River\r       \r       Acrobat\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Brutish Shove\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Mountain Stance\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Power Attack\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Rage\r       \r       Berserker\r       Novice\r       \r           \r         \r       You enter a furious rage, gaining offensive power at the cost of defense\r     \r   \r     \r       \r           Sudden Charge\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Swipe\r       \r       Berserker\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Cleave\r       \r       Berserker\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Furious Focus\r       \r       Berserker\r       Veteran\r       \r       \r     \r   \r     \r       \r           Giant's Stature\r       \r       Berserker\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Savage Critical\r       \r       Berserker\r       Epic\r       \r       \r     \r   \r     \r       \r           Acid Arrow\r       \r       Blaster\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dangerous Sorcery\r       \r       Blaster\r       Novice\r       \r       \r     \r   \r     \r       \r           Magic Missile\r       \r       Blaster\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Powerbolt\r       \r       Blaster\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Sound Burst\r       \r       Blaster\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Spell Shaper\r       \r       Blaster\r       Veteran\r       \r       \r     \r   \r     \r       \r           Cone of Cold\r       \r       Blaster\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Fireball\r       \r       Blaster\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Lightning Bolt\r       \r       Blaster\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Chain Lightning\r       \r       Blaster\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Disintegrate\r       \r       Blaster\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Polar Ray\r       \r       Blaster\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Implosion\r       \r       Blaster\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Meteor Swarm\r       \r       Blaster\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Cyberblade Stance\r       \r       Cyborg\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Cyberblade Slash\r       \r       Cyborg\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Diamond Soul\r       \r       Cyborg\r       Master\r       \r       \r     \r   \r     \r       \r           Synaptic Booster\r       \r       Cyborg\r       Epic\r       \r       \r     \r   \r     \r       \r           Attack of Opportunity\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Deflect Bullet\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dragon Stance\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Parry\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Lunge\r       \r       Duelist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Bullet Snatching\r       \r       Duelist\r       Veteran\r       \r       \r     \r   \r     \r       \r           Disarming Stance\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Disarming Twist\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Riposte\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Guardian's Deflection\r       \r       Duelist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Dueling Dance\r       \r       Duelist\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Guiding Riposte\r       \r       Duelist\r       Master\r       \r       \r     \r   \r     \r       \r           Improved Dueling Riposte\r       \r       Duelist\r       Master\r       \r       \r     \r   \r     \r       \r           Boundless Reprisals\r       \r       Duelist\r       Epic\r       \r       \r     \r   \r     \r       \r           Counterspell\r       \r       Fundamentalist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dispel Magic\r       \r       Fundamentalist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Illusory Disguise\r       \r       Fundamentalist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Metamagic\r       \r       Fundamentalist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Misty Step\r       \r       Fundamentalist\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Dimension Door\r       \r       Fundamentalist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Greater Metamagic\r       \r       Fundamentalist\r       Veteran\r       \r       \r     \r   \r     \r       \r           Resilient Sphere\r       \r       Fundamentalist\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Project Image\r       \r       Fundamentalist\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Redirect Gravity\r       \r       Fundamentalist\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Reflect Spell\r       \r       Fundamentalist\r       Master\r       \r       \r     \r   \r     \r       \r           Metamagic Mastery\r       \r       Fundamentalist\r       Epic\r       \r       \r     \r   \r     \r       \r           Time Stop\r       \r       Fundamentalist\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Far Shot\r       \r       Hunter\r       Novice\r       \r       \r     \r   \r     \r       \r           Hunt Prey\r       \r       Hunter\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Hunter's Aim\r       \r       Hunter\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Camouflage\r       \r       Hunter\r       Veteran\r       \r       \r     \r   \r     \r       \r           Deadly Aim\r       \r       Hunter\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Debilitating Shot\r       \r       Hunter\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Incredible Ricochet\r       \r       Hunter\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Double Prey\r       \r       Hunter\r       Master\r       \r       \r     \r   \r     \r       \r           Legendary Shot\r       \r       Hunter\r       Epic\r       \r       \r     \r   \r     \r       \r           Shadow Hunter\r       \r       Hunter\r       Epic\r       \r       \r     \r   \r     \r       \r           Double Shot\r       \r       Juggernaut\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Point-Blank Shot\r       \r       Juggernaut\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Supressive Fire\r       \r       Juggernaut\r       Veteran\r       \r       \r     \r   \r     \r       \r           Triple Shot\r       \r       Juggernaut\r       Veteran\r       \r       \r     \r   \r     \r       \r           Greater Supressive Fire\r       \r       Juggernaut\r       Master\r       \r       \r     \r   \r     \r       \r           Multishot Stance\r       \r       Juggernaut\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Impossible Volley\r       \r       Juggernaut\r       Epic\r       \r           \r         \r       \r     \r   \r     \r       \r           Charming Words\r       \r       Psion\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Command\r       \r       Psion\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Phantom Pain\r       \r       Psion\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Confusion\r       \r       Psion\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Mind Reading\r       \r       Psion\r       Veteran\r       \r           \r         \r       \r     \r   \r     \r       \r           Nimble Dodge\r       \r       Rogue\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Quick Draw\r       \r       Rogue\r       Novice\r       \r           \r         \r       \r     \r   \r     \r       \r           Sneak Attack\r       \r       Rogue\r       Novice\r       \r       \r     \r   \r     \r       \r           Unbalancing Blow\r       \r       Rogue\r       Novice\r       \r       \r     \r   \r     \r       \r           Nimble Roll\r       \r       Rogue\r       Veteran\r       \r       \r     \r   \r     \r       \r           Sly Striker\r       \r       Rogue\r       Veteran\r       \r       \r     \r   \r     \r       \r           Defensive Roll\r       \r       Rogue\r       Master\r       \r           \r         \r       \r     \r   \r     \r       \r           Impossible Striker\r       \r       Rogue\r       Epic\r       \r       \r     \r   \r     \r       \r           Master Strike\r       \r       Rogue\r       Epic",
         "url": "/all-powers.html"
       }
       
@@ -141,7 +141,7 @@ var store = [
 
       {
         "title": "Power Counts",
-        "excerpt": "Total powers: 45 \r \r Powers by School \r \r \r   \r     Name\r     All Tiers\r     Novice\r     Veteran\r     Master\r     Epic\r   \r   \r     \r       \r           Acrobat\r       \r       \r       11\r       \r       5\r       \r       4\r       \r       0\r       \r       2\r     \r   \r     \r       \r           Berserker\r       \r       \r       8\r       \r       5\r       \r       2\r       \r       0\r       \r       1\r     \r   \r     \r       \r           Cyborg\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Duelist\r       \r       \r       11\r       \r       3\r       \r       4\r       \r       3\r       \r       1\r     \r   \r     \r       \r           Assassin\r       \r       \r       4\r       \r       1\r       \r       1\r       \r       1\r       \r       1\r     \r   \r     \r       \r           Juggernaut\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Rogue\r       \r       \r       8\r       \r       4\r       \r       2\r       \r       1\r       \r       1\r     \r   \r     \r       \r           Sniper\r       \r       \r       3\r       \r       1\r       \r       2\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Battlesmith\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Gadgeteer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Mastermind\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Roboticist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Blaster\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Fundamentalist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Healer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Psion\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Champion\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Diviner\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Shapeshifter\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Telekinetic\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Druid\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Elementalist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Necromancer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Sage\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0",
+        "excerpt": "Total powers: 100 \r \r Powers by School \r \r \r   \r     Name\r     All Tiers\r     Novice\r     Veteran\r     Master\r     Epic\r   \r   \r     \r       \r           Acrobat\r       \r       \r       14\r       \r       6\r       \r       5\r       \r       1\r       \r       2\r     \r   \r     \r       \r           Berserker\r       \r       \r       10\r       \r       6\r       \r       3\r       \r       0\r       \r       1\r     \r   \r     \r       \r           Cyborg\r       \r       \r       4\r       \r       1\r       \r       1\r       \r       1\r       \r       1\r     \r   \r     \r       \r           Duelist\r       \r       \r       14\r       \r       5\r       \r       5\r       \r       3\r       \r       1\r     \r   \r     \r       \r           Demolitionist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Hunter\r       \r       \r       10\r       \r       3\r       \r       4\r       \r       1\r       \r       2\r     \r   \r     \r       \r           Juggernaut\r       \r       \r       7\r       \r       2\r       \r       2\r       \r       2\r       \r       1\r     \r   \r     \r       \r           Rogue\r       \r       \r       9\r       \r       4\r       \r       2\r       \r       1\r       \r       2\r     \r   \r     \r       \r           Battlesmith\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Gadgeteer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Mastermind\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Roboticist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Blaster\r       \r       \r       14\r       \r       5\r       \r       4\r       \r       3\r       \r       2\r     \r   \r     \r       \r           Fundamentalist\r       \r       \r       13\r       \r       5\r       \r       3\r       \r       3\r       \r       2\r     \r   \r     \r       \r           Healer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Psion\r       \r       \r       5\r       \r       3\r       \r       2\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Champion\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Diviner\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Shapeshifter\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Telekinetic\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Druid\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Elementalist\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Necromancer\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0\r     \r   \r     \r       \r           Sage\r       \r       \r       0\r       \r       0\r       \r       0\r       \r       0\r       \r       0",
         "url": "/power-counts.html"
       }
       
@@ -154,7 +154,7 @@ var store = [
 
       {
         "title": "Power Schools",
-        "excerpt": "Fighter                 Name       Description                             Acrobat              You dodge and weave across the battlefield, moving with incredible speed                             Berserker              You smash enemies with aggressive bursts of murderous rage                             Cyborg              You replace your biological body parts with advanced metal cybernetics                             Duelist              You parry enemy attacks and respond with well-timed ripostes               Sharpshooter                 Name       Description                             Assassin              You stalk through the shadows, surprising enemies with deadly sneak attacks                             Juggernaut              You mow down the opposition with heavy machine guns or explosives                             Rogue              You chance your way into victory, consistently getting lucky hits or dodges                             Sniper              You fire with care and precision to take out enemies at incredible distances               Expert                 Name       Description                             Battlesmith              You wear a suit of advanced power armor that protects you from harm                             Gadgeteer              You invent novel technological devices for a variety of purposes                             Mastermind              You support your party both in and out of battle, with a plan for every situation                             Roboticist              You control numerous robotic drones, customizing them for any situation               Sorcerer                 Name       Description                             Blaster              You blast enemies away with devastating evocations of elemental energy                             Fundamentalist              You manipulate the fundamental laws of reality to control space, time, and magic                             Healer              You heal your allies and poison your enemies with body-affecting magic                             Psion              You specialize in mental magic that affects other creatures' thoughts or actions               Adept                 Name       Description                             Champion              You manifest your belief in a cause as divine blessings on the battlefield                             Diviner              You predict the future, see distant events, and track creatures with magic                             Shapeshifter              You transform yourself or other creatures into animals or monsters                             Telekinetic              You move objects with your mind to protect yourself or hurl boulders at foes               Conjurer                 Name       Description                             Druid              You command the spirits of nature, manipulating wild animals and plants                             Elementalist              You harness elemental spirits to precisely control the natural world                             Necromancer              You channel necrotic energy to slay the living, then raise the spirits of the dead                             Sage              You employ intelligent spirits to gather information and perform tasks",
+        "excerpt": "Fighter                 Name       Description                             Acrobat              You dodge and weave across the battlefield, moving with incredible speed                             Berserker              You smash enemies with aggressive bursts of murderous rage                             Cyborg              You replace your biological body parts with advanced metal cybernetics                             Duelist              You parry enemy attacks and respond with well-timed ripostes               Sharpshooter                 Name       Description                             Demolitionist              You destroy buildings and people alike with a variety of powerful explosives                             Hunter              You fire with care and precision to take out enemies at incredible distances                             Juggernaut              You mow down the opposition with heavy machine guns or explosives                             Rogue              You chance your way into victory, consistently getting lucky hits or dodges               Expert                 Name       Description                             Battlesmith              You wear a suit of advanced power armor that protects you from harm                             Gadgeteer              You invent novel technological devices for a variety of purposes                             Mastermind              You support your party both in and out of battle, with a plan for every situation                             Roboticist              You control numerous robotic drones, customizing them for any situation               Sorcerer                 Name       Description                             Blaster              You blast enemies away with devastating evocations of elemental energy                             Fundamentalist              You manipulate the fundamental laws of reality to control space, time, and magic                             Healer              You heal your allies and poison your enemies with body-affecting magic                             Psion              You specialize in mental magic that affects other creatures' thoughts or actions               Adept                 Name       Description                             Champion              You manifest your belief in a cause as divine blessings on the battlefield                             Diviner              You predict the future, see distant events, and track creatures with magic                             Shapeshifter              You transform yourself or other creatures into animals or monsters                             Telekinetic              You move objects with your mind to protect yourself or hurl boulders at foes               Conjurer                 Name       Description                             Druid              You command the spirits of nature, manipulating wild animals and plants                             Elementalist              You harness elemental spirits to precisely control the natural world                             Necromancer              You channel necrotic energy to slay the living, then raise the spirits of the dead                             Sage              You employ intelligent spirits to gather information and perform tasks",
         "url": "/power-schools.html"
       }
       
@@ -262,7 +262,7 @@ var store = [
 
       {
         "title": "Acrobat",
-        "excerpt": "Name     Tier     Type     Description                                      Crane Stance                  Novice         1-Action                                                        Dragon Stance                  Novice         1-Action                                                        Flurry                  Novice         1-Action                                                        Incredible Movement                  Novice         Passive                                                        Reactive Pursuit                  Novice         Reaction                                                        Sleeper Hold                  Veteran         1-Action                                                        Wall Run                  Veteran         1-Action                                                        Water Step                  Veteran         Passive                                                        Winding Flow                  Veteran         1-Action                                                        Enduring Quickness                  Epic         Passive                                                        Swift River                  Epic         Free                                                                                                                                                                                                                                                                                                                                 Crane Stance                              Novice                            Stance                                             Requirements           You are unarmored                                  You enter the stance of a crane, using flowing defensive motions. You gain a +1 bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage, and have the agile, finnesse, and unarmed traits. You also gain a +5 bonus to skill rolls made to jump.                                  Dragon Stance                              Novice                            Stance                                             Requirements           You are unarmored                                  You enter the stance of a dragon and make powerful strikes like a lashing dragon’s tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They have the backswing and unarmed traits. While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.                                  Flurry                              Novice                            Flourish                        Make two melee Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your MAP to the Strikes normally.                                  Incredible Movement              Novice                                    You move like the wind. Whenever you’re not wearing armor, you gain a bonus to your Speed equal to 5 feet * your Acrobat level.                                  Reactive Pursuit                              Novice                                                         Trigger           An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a Stride action                                  You keep pace with a retreating foe. You Stride, but you must end your movement adjacent to the triggering enemy. Your move does not trigger reactions from the triggering enemy.                                  Sleeper Hold                              Veteran                            Attack                Incapacitation                                             Requirements           You have a creature grabbed or restrained                                  You pinch crucial points of your target’s nervous system, impeding its ability to function. Attempt a Wrestling check to Grapple the creature, with the following success and critical success effects instead of the usual effects.                                   Critical Success           The target falls unconscious for 1 minute, though it remains standing and doesn't drop what it holds                             Success           The target takes a -1 penalty to Agility until the end of its next turn                                                                 Wall Run                              Veteran                                    You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface. During this movement, you can run up vertical surfaces, like walls, at your full Speed. If you end the Stride off the ground, you fall after taking your next action or when your turn ends, whichever comes first. If you have Water Step or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.                                  Water Step              Veteran                                    You can Stride across liquid and surfaces that don’t support your weight. This benefit only lasts during your movement. If you end your movement on a surface that can’t support you, you fall in or it collapses as normal.                                  Winding Flow                              Veteran                                                         Frequency           Once per round                                  Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.                                  Enduring Quickness              Epic                                    You move as fast and as high as the wind itself. You’re permanently quickened. You can use your extra action only to Stride or Leap.                                  Swift River                              Epic                                                         Trigger           Your turn ends and you have a penalty to your Speed or are immobilized or slowed                                  You flow like water, avoiding all restraints. End one penalty to your speed, or end one immobilized or slowed condition affecting you.",
+        "excerpt": "Name     Tier     Type     Description                                      Crane Stance                  Novice         1-Action                                                        Fantastic Leap                  Novice         2-Action                                                        Flurry of Blows                  Novice         1-Action                                                        Incredible Movement                  Novice         Passive                                                        Reactive Pursuit                  Novice         Reaction                                                        Stunning Fist                  Novice         Free                                                        Agile Grace                  Veteran         Passive                                                        Sleeper Hold                  Veteran         1-Action                                                        Wall Run                  Veteran         1-Action                                                        Water Step                  Veteran         Passive                                                        Winding Flow                  Veteran         1-Action                                                        Whirlwind Strike                  Master         3-Action                                                        Enduring Quickness                  Epic         Passive                                                        Swift River                  Epic         Free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Crane Stance                              Novice                                       Stance                                                      Requirements           You are unarmored                                  You enter the stance of a crane, using flowing defensive motions. You gain a +1 bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage, and have the agile, finesse, and unarmed traits.   While in Crane Stance, you gain a +5 bonus to skill rolls made to jump.                                  Fantastic Leap                              Novice                        You launch yourself through the air at a foe. Make a Leap or attempt a High Jump or Long Jump. At the end of your jump, you can make a melee Strike, even if you’re in mid-air. You fall to the ground after the Strike. If the distance of your fall is no more than the height of your jump, you take no damage and land upright.                                  Flurry of Blows                              Novice                                       Flourish                                 Make two melee Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your MAP to the Strikes normally.                                  Incredible Movement              Novice                        You move like the wind. Whenever you’re not wearing armor, you gain a bonus to your Speed equal to 5 feet * your Acrobat level.                                  Reactive Pursuit                              Novice                                             Trigger           An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a Stride action                                  You keep pace with a retreating foe. You Stride, but you must end your movement adjacent to the triggering enemy. Your move does not trigger reactions from the triggering enemy.                                  Stunning Fist                              Novice                                       Incapacitation                                                      Prerequisites           Flurry of Blows                    Trigger           You target the same creature with two Strikes from your Flurry of Blows, and at least one of the Strikes hits and deals damage.                                  The focused power of your flurry threatens to overwhelm your opponent. Your target must succeed at a Fortitude save against a DC of 10 + Strength + Prof of be stunned 1 (or stunned 3 on a critical failure).                                  Agile Grace              Veteran                        Your graceful moves with agile weapons are beyond compare. Your multiple attack penalty with agile weapons becomes -3 for each attack action you’ve used so far this turn (rather than -4).                                  Sleeper Hold                              Veteran                                       Attack                    Incapacitation                                                      Requirements           You have a creature grabbed or restrained                                  You pinch crucial points of your target’s nervous system, impeding its ability to function. Attempt a Wrestling check to Grapple the creature, with the following success and critical success effects instead of the usual effects.                                   Critical Success           The target falls unconscious for 1 minute, though it remains standing and doesn't drop what it holds                             Success           The target takes a -1 penalty to Agility until the end of its next turn                                                                 Wall Run                              Veteran                        You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface. During this movement, you can run up vertical surfaces, like walls, at your full Speed. If you end the Stride off the ground, you fall after taking your next action or when your turn ends, whichever comes first. If you have Water Step or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.                                  Water Step              Veteran                        You can Stride across liquid and surfaces that don’t support your weight. This benefit only lasts during your movement. If you end your movement on a surface that can’t support you, you fall in or it collapses as normal.                                  Winding Flow                              Veteran                                             Frequency           Once per round                                  Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.                                  Whirlwind Strike                              Master                                       Flourish                    Open                                 You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts towards your MAP, but do not increase your penalty until you have made all your attacks.                                  Enduring Quickness              Epic                        You move as fast and as high as the wind itself. You’re permanently quickened. You can use your extra action only to Stride or Leap.                                  Swift River                              Epic                                             Trigger           Your turn ends and you have a penalty to your Speed or are immobilized or slowed                                  You flow like water, avoiding all restraints. End one penalty to your speed, or end one immobilized or slowed condition affecting you.",
         "url": "/acrobat.html"
       }
       
@@ -275,7 +275,7 @@ var store = [
 
       {
         "title": "Berserker",
-        "excerpt": "A strong melee dude, who likes being strong and fighting in melee. The dude part is optional, and doesn't signify gender or anything. Strong melee dudes are often found punching things or hitting things, especially when those things are enemies or are getting in the way.           Name     Tier     Type     Description                                                                                                                                                              Brutish Shove                  Novice         1-Action                                                        Power Attack                  Novice         2-Action                                                        Rage                  Novice         1-Action         You enter a furious rage, gaining offensive power at the cost of defense                                               Sudden Charge                  Novice         2-Action                                                        Swipe                  Novice         2-Action                                                        Cleave                  Veteran         Reaction                                                        Giant's Stature                  Veteran         1-Action                                                        Savage Critical                  Epic         Passive                                                                                                                                                                                                                                                                                             Brutish Shove                              Novice                            Press                                             Requirements           You are wielding a two-handed melee weapon                                  Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically apply the effects of the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn’t trigger reactions.   This Strike has the following failure effect.                                                     Failure           The target becomes flat-footed until the end of your current turn                                                        Power Attack                              Novice                            Flourish                        You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike (which counts as two attacks when calculating your MAP). If this Strike hits, you deal an extra die of weapon damage.                                  Rage                              Novice                            Concentrate                Emotion                Encounter                Mental                                             Duration           1 minute, until you can't sense any enemies, or until you fall unconscious                                  You tap into your inner fury and begin raging. You gain temporary HP equal to Level + Strength. While raging, you deal 2 additional damage with melee strikes, you take a -1 penalty to AC, and you can’t use actions with Concentrate unless they also have Rage.                                  Sudden Charge                              Novice                            Flourish                Open                        With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within reach of at least one enemy, you can make a melee Strike against that enemy.                                  Swipe                              Novice                            Flourish                        You make a wide, arcing swing. Make a single melee Strike and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts a two attacks for MAP. If you’re using a weapon with the sweep trait, its modifier applies to all your Swipe attacks.                                  Cleave                              Veteran                            Rage                                             Trigger           Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature                                  You swing clear through one foe and into another. Make a melee Strike against the second foe.                                  Giant's Stature                              Veteran                            Polymorph                Rage                                             Requirements           You are Medium size or smaller                                  You grow to incredible size. You become Large, increasing your reach by 5 feet and taking a -1 penalty to Agility until you stop raging. Your equipment grows with you.                                  Savage Critical              Epic                                    The wounds you inflict are greivous. When you Strike, you critically succeed if you roll a 19 on the die as long as that result is a success.",
+        "excerpt": "A strong melee dude, who likes being strong and fighting in melee. The dude part is optional, and doesn't signify gender or anything. Strong melee dudes are often found punching things or hitting things, especially when those things are enemies or are getting in the way.           Name     Tier     Type     Description                                                                                                                                                      Brutish Shove                  Novice         1-Action                                                        Mountain Stance                  Novice         1-Action                                                        Power Attack                  Novice         2-Action                                                        Rage                  Novice         1-Action         You enter a furious rage, gaining offensive power at the cost of defense                                               Sudden Charge                  Novice         2-Action                                                        Swipe                  Novice         2-Action                                                        Cleave                  Veteran         Reaction                                                        Furious Focus                  Veteran         Passive                                                        Giant's Stature                  Veteran         1-Action                                                        Savage Critical                  Epic         Passive                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Brutish Shove                              Novice                                       Press                                                      Requirements           You are wielding a two-handed melee weapon                                  Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically apply the effects of the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn’t trigger reactions.   This Strike has the following failure effect.                                                     Failure           The target becomes flat-footed until the end of your current turn                                                        Mountain Stance                              Novice                                       Stance                                                      Requirements           You are unarmored and touching the ground                                  You end the stance of an implacable mountain and strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage and have the forceful and unarmed traits.   While in Mountain Stance, you gain a +4 bonus to AC and a +2 bonus to any defenses against being Shoved or Tripped. However, you don’t add your Agility to your AC, and your Speed is reduced by 5 feet.                                  Power Attack                              Novice                                       Flourish                                 You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike (which counts as two attacks when calculating your MAP). If this Strike hits, you deal an extra die of weapon damage.                                  Rage                              Novice                                       Concentrate                    Emotion                    Encounter                    Mental                                                      Duration           1 minute, until you can't sense any enemies, or until you fall unconscious                                  You tap into your inner fury and begin raging. You gain temporary HP equal to Level + Strength. While raging, you deal 2 additional damage with melee strikes, you take a -1 penalty to AC, and you can’t use actions with Concentrate unless they also have Rage.                                  Sudden Charge                              Novice                                       Flourish                    Open                                 With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within reach of at least one enemy, you can make a melee Strike against that enemy.                                  Swipe                              Novice                                       Flourish                                 You make a wide, arcing swing. Make a single melee Strike and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts a two attacks for MAP. If you’re using a weapon with the sweep trait, its modifier applies to all your Swipe attacks.                                  Cleave                              Veteran                                       Rage                                                      Trigger           Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature                                  You swing clear through one foe and into another. Make a melee Strike against the second foe.                                  Furious Focus              Veteran                                             Prerequisites           Power Attack                                  You’ve learned to maintain your balance even when swinging furiously. When you make a Power Attack with a melee weapon you’re wielding in two hands, it counts as one attack toward MAP instead of two.                                  Giant's Stature                              Veteran                                       Polymorph                    Rage                                                      Requirements           You are Medium size or smaller                                  You grow to incredible size. You become Large, increasing your reach by 5 feet and taking a -1 penalty to Agility until you stop raging. Your equipment grows with you.                                  Savage Critical              Epic                        The wounds you inflict are greivous. When you Strike, you critically succeed if you roll a 19 on the die as long as that result is a success.",
         "url": "/berserker.html"
       }
       
@@ -288,7 +288,7 @@ var store = [
 
       {
         "title": "Cyborg",
-        "excerpt": "Name     Tier     Type     Description",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                      Cyberblade Stance                  Novice         1-Action                                                        Cyberblade Slash                  Veteran         2-Action                                                        Diamond Soul                  Master         Passive                                                        Synaptic Booster                  Epic         Passive                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Cyberblade Stance                              Novice                                       Stance                                 You extend metal blades from your arms and can make cyberblade attacks. These deal 1d8 slashing damage, and have the agile, finesse, and unarmed traits. On a critical success with your cyberblade, if you deal damage, the target takes 1d4 persistent bleed damage.   As long as your Speed is at least 20 feet while in Cyberblade Stance, you can Step 10 feet.                                  Cyberblade Slash                              Veteran                                             Prerequisites           Cyberblade Stance                    Requirements           You are in Cyberblade Stance                                  You make a fierce swipe with both hands. Make a cyberblade Strike. It deals 2d8 extra damage (3d8 if you’re 14th level or higher), and you can push the target 5 feet away as if you had successfully Shoved them. If the attack is a critical success and deals damage, add your Strength to the persistent bleed damage from your cyberblade.                                  Diamond Soul              Master                        You have fortified your body and mind against eldritch effects. You gain a +1 bonus to saving throws against magic.                                  Synaptic Booster              Epic                        Your skill with weapons lets you attack swiftly at all times. You’re permanently quickened. You can use your extra action only to Strike.",
         "url": "/cyborg.html"
       }
       
@@ -301,7 +301,7 @@ var store = [
 
       {
         "title": "Duelist",
-        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                              Deflect Bullet                  Novice         Reaction                                                        Dueling Parry                  Novice         1-Action                                                        Lunge                  Novice         1-Action                                                        Bullet Snatching                  Veteran         Passive                                                        Disarming Stance                  Veteran         1-Action                                                        Dueling Riposte                  Veteran         Reaction                                                        Guardian's Deflection                  Veteran         Reaction                                                        Dueling Dance                  Master         1-Action                                                        Guiding Riposte                  Master         Passive                                                        Improved Dueling Riposte                  Master         Passive                                                        Boundless Reprisals                  Epic         Passive                                                                                                                                                                                                                                     Deflect Bullet                              Novice                                                         Trigger           You are the target of a ranged attack                    Requirements           You're aware of the attack, are not flat-footed against it, and are wielding a melee weapon or have a hand free                                  You gain a +4 bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this power to deflect usually massive ranged projectiles (such as boulders or ballista bolts).                                  Dueling Parry                              Novice                                                         Requirements           You are wielding a melee weapon                                  You can parry attacks against you with your weapon. You gain a +2 bonus to AC until the start of your next turn as long as you continue to meet the requirements.                                  Lunge                              Novice                                                         Requirements           You are wielding a melee weapon                                  Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee wapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.                                  Bullet Snatching              Veteran                                                         Prerequisites           Deflect Bullet                                  You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with Deflect Bullet, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.                                  Disarming Stance                              Veteran                            Stance                                             Requirements           You are wielding a melee weapon                                  You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 bonus to Wrestling checks to Disarm and a +2 bonus to your Reflex DC when defending against checks to Disarm you.                                  Dueling Riposte                              Veteran                                                         Prerequisites           Dueling Parry                    Trigger           A creature within your reach critically fails a Strike against you                    Requirements           You are benefiting from Dueling Parry                                  You riposte against your flailing enemy. Make a melee Strike against the triggering creature.                                  Guardian's Deflection                              Veteran                                                         Trigger           An ally within your melee reach is hit by an attack and you can see the attacker                    Requirements           You are wielding a melee weapon                                  You use your weapon to deflect the attack against your ally, granting a +2 bonus to their AC against the triggering attack. (You can use this ability after knowing whether the +2 bonus would turn a hit into a miss.)                                  Dueling Dance                              Master                            Stance                                             Prerequisites           Dueling Parry                    Requirements           You are wielding a melee weapon                                  You both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of Dueling Parry.                                  Guiding Riposte              Master                                                         Prerequisites           Dueling Riposte                                  By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. WHen you use Dueling Riposte to Strike and you hit, you can move the target up to 10 feet into a space in your reach.                                  Improved Dueling Riposte              Master                                                         Prerequisites           Dueling Riposte                                  Your weapon whirls and darts, striking foes whenever the opportunity presents itself. At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte. You can use this extra reaction even if you are not benefiting from Dueling Parry.                                  Boundless Reprisals              Epic                                    With a sixth sense for the flow of combat, you can quickly react to any situation as required. At the start of each enemy’s turn, you gain a reaction you can use only during that turn.",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                      Attack of Opportunity                  Novice         Reaction                                                        Deflect Bullet                  Novice         Reaction                                                        Dragon Stance                  Novice         1-Action                                                        Dueling Parry                  Novice         1-Action                                                        Lunge                  Novice         1-Action                                                        Bullet Snatching                  Veteran         Passive                                                        Disarming Stance                  Veteran         1-Action                                                        Disarming Twist                  Veteran         1-Action                                                        Dueling Riposte                  Veteran         Reaction                                                        Guardian's Deflection                  Veteran         Reaction                                                        Dueling Dance                  Master         1-Action                                                        Guiding Riposte                  Master         Passive                                                        Improved Dueling Riposte                  Master         Passive                                                        Boundless Reprisals                  Epic         Passive                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Attack of Opportunity                              Novice                                             Trigger           A creature within your reach uses a Manipulate action or a Move action, makes a ranged attack, or leaves a square during a Move action it's using                                  You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger is a Manipulate action, your disrupt that action. This Strike doesn’t count toward MAP, and MAP doesn’t apply to this Strike.                                  Deflect Bullet                              Novice                                             Trigger           You are the target of a ranged attack                    Requirements           You're aware of the attack, are not flat-footed against it, and are wielding a melee weapon or have a hand free                                  You gain a +4 bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this power to deflect usually massive ranged projectiles (such as boulders or ballista bolts).                                  Dragon Stance                              Novice                                       Stance                                                      Requirements           You are unarmored                                  You enter the stance of a dragon and make powerful strikes like a lashing dragon’s tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They have the backswing and unarmed traits.   While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.                                  Dueling Parry                              Novice                                             Requirements           You are wielding a melee weapon                                  You can parry attacks against you with your weapon. You gain a +2 bonus to AC until the start of your next turn as long as you continue to meet the requirements.                                  Lunge                              Novice                                             Requirements           You are wielding a melee weapon                                  Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee wapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.                                  Bullet Snatching              Veteran                                             Prerequisites           Deflect Bullet                                  You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with Deflect Bullet, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.                                  Disarming Stance                              Veteran                                       Stance                                                      Requirements           You are wielding a melee weapon                                  You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 bonus to Wrestling checks to Disarm and a +2 bonus to your Reflex DC when defending against checks to Disarm you.                                  Disarming Twist                              Veteran                                       Press                                                      Requirements           You are wielding a melee weapon                                  After your initial attack redirects your foe’s defenses, your follow-up wrests their weapon from their grasp. Make a melee Strike. In addition to its other effects, this Strike gains the success and critical succes effects of the Disarm action. The Strike also has the following failure effect.                                                     Failure           The target is flat-footed until the end of your current turn                                                        Dueling Riposte                              Veteran                                             Prerequisites           Dueling Parry                    Trigger           A creature within your reach critically fails a Strike against you                    Requirements           You are benefiting from Dueling Parry                                  You riposte against your flailing enemy. Make a melee Strike against the triggering creature.                                  Guardian's Deflection                              Veteran                                             Trigger           An ally within your melee reach is hit by an attack and you can see the attacker                    Requirements           You are wielding a melee weapon                                  You use your weapon to deflect the attack against your ally, granting a +2 bonus to their AC against the triggering attack. (You can use this ability after knowing whether the +2 bonus would turn a hit into a miss.)                                  Dueling Dance                              Master                                       Stance                                                      Prerequisites           Dueling Parry                    Requirements           You are wielding a melee weapon                                  You both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of Dueling Parry.                                  Guiding Riposte              Master                                             Prerequisites           Dueling Riposte                                  By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to Strike and you hit, you can move the target up to 10 feet into a space in your reach.                                  Improved Dueling Riposte              Master                                             Prerequisites           Dueling Riposte                                  Your weapon whirls and darts, striking foes whenever the opportunity presents itself. At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte. You can use this extra reaction even if you are not benefiting from Dueling Parry.                                  Boundless Reprisals              Epic                        With a sixth sense for the flow of combat, you can quickly react to any situation as required. At the start of each enemy’s turn, you gain a reaction you can use only during that turn.",
         "url": "/duelist.html"
       }
       
@@ -313,9 +313,22 @@ var store = [
       
 
       {
-        "title": "Assassin",
-        "excerpt": "Name     Tier     Type     Description                                                                                                                              Hunt Prey                  Novice         1-Action                                                        Camouflage                  Veteran         Passive                                                        Double Prey                  Master         Passive                                                        Master Strike                  Epic         Free                                                                                                                                                                                                                                                                                                                                             Hunt Prey                              Novice                            Concentrate                                             Duration           24 hours, or until you use this power again                                  You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 bonus to Perception rolls or Survival rolls made to Seek or Track your prey. You also ignore the penalty for making ranged attacks within your second increment against the prey you’re hunting.                                  Camouflage              Veteran                                    You alter your appearance to blend in to your surroundings. While outdoors, you can Sneak even if you’re observed.                                  Double Prey              Master                                                         Requirements           Hunt Prey                                  You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey power, you can pick two creatures as your prey.                                  Master Strike                              Epic                            Incapacitation                                             Trigger           Your Strike hits a flat-footed creature and deals damage                                  The target attempts a Fortitude save against a DC of 10 + Precision + Prof. It then becomes temporarily immune to your Master Strike for 1 day.                                   Critical Success           The target is unaffected                             Success           The target takes a -2 penalty to Strength until the end of your next turn                             Failure           The target is paralyzed for 4 rounds                             Critical Failure           The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (your choice)",
-        "url": "/assassin.html"
+        "title": "Demolitionist",
+        "excerpt": "Name     Tier     Type     Description",
+        "url": "/demolitionist.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Hunter",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Far Shot                  Novice         Passive                                                        Hunt Prey                  Novice         1-Action                                                        Hunter's Aim                  Novice         2-Action                                                        Camouflage                  Veteran         Passive                                                        Deadly Aim                  Veteran         1-Action                                                        Debilitating Shot                  Veteran         2-Action                                                        Incredible Ricochet                  Veteran         2-Action                                                        Double Prey                  Master         Passive                                                        Legendary Shot                  Epic         Passive                                                        Shadow Hunter                  Epic         Passive                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Far Shot              Novice                        Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.                                  Hunt Prey                              Novice                                       Concentrate                                                      Duration           24 hours, or until you use this power again                                  You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 bonus to Perception rolls or Survival rolls made to Seek or Track your prey. You also ignore the penalty for making ranged attacks within your second increment against the prey you’re hunting. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage.                                  Hunter's Aim                              Novice                                       Concentrate                                 By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 bonus to the attack roll and ignore the target’s concealed condition.                                  Camouflage              Veteran                        You alter your appearance to blend in to your surroundings. While outdoors, you can Sneak even if you’re observed.                                  Deadly Aim                              Veteran                                       Open                                 You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a -2 penalty. Your Strike’s damage increases by 2 + Prof.                                  Debilitating Shot                              Veteran                                       Flourish                                 Aiming for a weak point, you impede your foe with a precise shot. Make a ranged weapon Strike. If it hits and deals damage, the target is slowed 1 until the end of its next turn.                                  Incredible Ricochet                              Veteran                                       Concentrate                    Press                                 After your first shot singles out your opponent’s position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike. You ignore the target’s concealed condition and all cover.                                  Double Prey              Master                                             Prerequisites           Hunt Prey                                  You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey power, you can pick two creatures as your prey.                                  Legendary Shot              Epic                                             Prerequisites           Far Shot, Hunt Prey                                  Your focus on your hunted prey, perceiving angles, air resistance, and every variable that would affect your ranged attack. You can ignore the penalty for attacking up to five range increments away when attacking your hunted prey.                                  Shadow Hunter              Epic                                             Prerequisites           Camouflage                                  You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While outdoors, you’re always concealed from all foes if you choose to be.",
+        "url": "/hunter.html"
       }
       
         ,
@@ -327,7 +340,7 @@ var store = [
 
       {
         "title": "Juggernaut",
-        "excerpt": "Name     Tier     Type     Description",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Double Shot                  Novice         2-Action                                                        Point-Blank Shot                  Novice         1-Action                                                        Supressive Fire                  Veteran         Passive                                                        Triple Shot                  Veteran         Passive                                                        Greater Supressive Fire                  Master         Passive                                                        Multishot Stance                  Master         1-Action                                                        Impossible Volley                  Epic         3-Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Double Shot                              Novice                                       Flourish                                                      Requirements           You are wielding a ranged weapon without the reload trait                                  You shoot twice in blindingly fast succession. Make two Strikes, each against a separate target and with a -2 penalty. Both attacks count towards MAP, but the penalty doesn’t increase until after you’ve made both of them.                                  Point-Blank Shot                              Novice                                       Open                    Stance                                                      Requirements           You are wielding a ranged weapon                                  You take aim to pick off nearby enemies quickly. When using a ranged weapon, you gain a +2 bonus to attacks against targets within 30 feet.                                  Supressive Fire              Veteran                        The overwhelming number of your attacks leaves an enemy flustered. If you critically hit a creature with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, it’s flat-footed until the start of your next turn.                                  Triple Shot              Veteran                                             Prerequisites           Double Shot                                  You can quickly fire multiple shots with greater control. When you use Double Shot, you can make the attacks against the same target. You can add an additional action to Double Shot to make three ranged Strikes instead of two. If you do, the penalty is -4 instead of -2. All attacks count toward MAP, but the penalty doesn’t increase until after you’ve made all of them.                                  Greater Supressive Fire              Master                                             Prerequisites           Supressive Fire                                  Even a single missile can throw off your enemy’s balance, and more powerful attacks leave it flustered for longer. If you hit a creature with a ranged weapon, it’s flat-footed until the start of your next turn. If you critically hit a creature or hit it twice on the same turn with a ranged weapon, it’s flat-footed until the end of your next turn instead.                                  Multishot Stance                              Master                                       Stance                                                      Prerequisites           Triple Shot                    Requirements           You are wielding a ranged weapon without the reload trait                                  You lock yourself in a stable position so you can fire swiftly and accurately. While you are in this stance, your penalty for Double Shot is reduced to -1, or -2 if you add the extra action to make three Strikes. If you move from your position, this stance ends.                                  Impossible Volley                              Epic                                       Flourish                    Open                                                      Requirements           You are wielding a ranged weapon without the reload trait                                  You fire a volley at all foes in an area. Make one Strike with a -2 penalty against each enemy within a 10-foot-radius burst. Roll the damage only once for all targets. Each attack counts towards MAP, but do not increase your penalty until you have made all your attacks.",
         "url": "/juggernaut.html"
       }
       
@@ -340,21 +353,8 @@ var store = [
 
       {
         "title": "Rogue",
-        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                      Nimble Dodge                  Novice         Reaction                                                        Quick Draw                  Novice         1-Action                                                        Sneak Attack                  Novice         Passive                                                        Unbalancing Blow                  Novice         Passive                                                        Nimble Roll                  Veteran         Passive                                                        Sly Striker                  Veteran         Passive                                                        Defensive Roll                  Master         Free                                                        Impossible Striker                  Epic         Passive                                                                                                                                                                                                                 Nimble Dodge                              Novice                                                         Trigger           A creature targets you with an attack and you can see the attacker                                  You deftly dodge out of the way, gaining a +2 bonus to AC against the triggering attack.                                  Quick Draw                              Novice                                    You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.                                  Sneak Attack              Novice                                    When your enemy can’t properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the flat-footed condition, you deal an extra 1d6 precision damage. The weapon you Strike with must be a ranged weapon, or must have the agile or finesse trait.   As your level increases, so does the number of damage dice for your sneak attack. Increase the number of dice to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.                                  Unbalancing Blow              Novice                                    Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.                                  Nimble Roll              Veteran                                                         Prerequisites           Nimble Dodge                                  You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.   When you use Nimble Dodge and the triggering attack fails or criticalls fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains Move.                                  Sly Striker              Veteran                                                         Prerequisites           Sneak Attack                                  Your attacks deal more damage, even against creatures that aren’t flat-footed. When you succeed or critically succeed at a Strike against a creature that isn’t flat-footed, you also deal 1d6 precision damage. This applies only if you’re using a weapon you could Sneak Attack with. This damage increases to 2d6 at 14th level.                                  Defensive Roll                              Master                            Encounter                                             Trigger           A physical attack would reduce you to 0 HP                                  Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.                                  Impossible Striker              Epic                                                         Prerequisites           Sly Striker                                  Your attacks are swift and deadly beyond explanation. Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from Sly Striker, you can deal your full Sneak Attack damage to a target even if the target isn’t flat-footed.",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Nimble Dodge                  Novice         Reaction                                                        Quick Draw                  Novice         1-Action                                                        Sneak Attack                  Novice         Passive                                                        Unbalancing Blow                  Novice         Passive                                                        Nimble Roll                  Veteran         Passive                                                        Sly Striker                  Veteran         Passive                                                        Defensive Roll                  Master         Free                                                        Impossible Striker                  Epic         Passive                                                        Master Strike                  Epic         Free                                                                                                                                                                                                                                                                                                                                                                                                                             Nimble Dodge                              Novice                                             Trigger           A creature targets you with an attack and you can see the attacker                                  You deftly dodge out of the way, gaining a +2 bonus to AC against the triggering attack.                                  Quick Draw                              Novice                        You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.                                  Sneak Attack              Novice                        When your enemy can’t properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the flat-footed condition, you deal an extra 1d6 precision damage. The weapon you Strike with must be a ranged weapon, or must have the agile or finesse trait.   As your level increases, so does the number of damage dice for your sneak attack. Increase the number of dice to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.                                  Unbalancing Blow              Novice                        Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.                                  Nimble Roll              Veteran                                             Prerequisites           Nimble Dodge                                  You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.   When you use Nimble Dodge and the triggering attack fails or criticalls fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains Move.                                  Sly Striker              Veteran                                             Prerequisites           Sneak Attack                                  Your attacks deal more damage, even against creatures that aren’t flat-footed. When you succeed or critically succeed at a Strike against a creature that isn’t flat-footed, you also deal 1d6 precision damage. This applies only if you’re using a weapon you could Sneak Attack with. This damage increases to 2d6 at 14th level.                                  Defensive Roll                              Master                                       Encounter                                                      Trigger           A physical attack would reduce you to 0 HP                                  Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.                                  Impossible Striker              Epic                                             Prerequisites           Sly Striker                                  Your attacks are swift and deadly beyond explanation. Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from Sly Striker, you can deal your full Sneak Attack damage to a target even if the target isn’t flat-footed.                                  Master Strike                              Epic                                       Incapacitation                                                      Trigger           Your Strike hits a flat-footed creature and deals damage                                  The target attempts a Fortitude save against a DC of 10 + Precision + Prof. It then becomes temporarily immune to your Master Strike for 1 day.                                   Critical Success           The target is unaffected                             Success           The target takes a -2 penalty to Strength until the end of your next turn                             Failure           The target is paralyzed for 4 rounds                             Critical Failure           The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (your choice)",
         "url": "/rogue.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Sniper",
-        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                      Far Shot                  Novice         Passive                                                        Deadly Aim                  Veteran         1-Action                                                        Incredible Aim                  Veteran         2-Action                                                                                                                                                                                                                         Far Shot              Novice                                    Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.                                  Deadly Aim                              Veteran                            Open                        You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a -2 penalty. Your Strike’s damage increases by 2 + Prof.                                  Incredible Aim                              Veteran                            Concentrate                        By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 bonus to the attack roll and ignore the target’s concealed condition.",
-        "url": "/sniper.html"
       }
       
         ,
@@ -418,7 +418,7 @@ var store = [
 
       {
         "title": "Blaster",
-        "excerpt": "Name     Tier     Type     Description",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                      Acid Arrow                  Novice         2-Action                                                        Dangerous Sorcery                  Novice         Passive                                                        Magic Missile                  Novice         1-Action                                                        Powerbolt                  Novice         2-Action                                                        Sound Burst                  Novice         2-Action                                                        Spell Shaper                  Veteran         Passive                                                        Cone of Cold                  Veteran         2-Action                                                        Fireball                  Veteran         2-Action                                                        Lightning Bolt                  Veteran         2-Action                                                        Chain Lightning                  Master         2-Action                                                        Disintegrate                  Master         2-Action                                                        Polar Ray                  Master         2-Action                                                        Implosion                  Epic         2-Action                                                        Meteor Swarm                  Epic         2-Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Acid Arrow                              Novice                                       Acid                    Attack                    Spell                                                      Cost           2 Mana                    Range           120 feet                                  You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target. On a hit, you deal 3d8 acid damage plus 1d6 persistent acid damage. On a critical hit, double the initial damage, but not the persistent damage.      Heightened (per +2 Mana)   The intial damage increases by 2d8, and the persistant acid damage increases by 1d6                                  Dangerous Sorcery              Novice                        Your arcane knowledge grants you great destructive power. When you cast a spell, if the spell deals damage and doesn’t have a duration, you gain a bonus to that spell’s damage equal to your Blaster level.                                  Magic Missile                              Novice                                       Attack                    Force                    Spell                                                      Cost           1 Mana                    Range           30 feet                                  You fire an unerring dart of force from your fingertips. It automatically hits and deals 1d4+1 force damage to the target.                                  Powerbolt                              Novice                                       Attack                    Spell                                                      Range           60 feet                                  You fire a bolt of damaging magical energies that impacts with violent force. Make a spell attack. If you hit, you deal 1d6 + Intelligence damage, or twice as much damage on a critical hit. The damage increases by 1d6 for every Blaster power you know other than this one.                                  Sound Burst                              Novice                                       Spell                    Sonic                                                      Cost           2 Mana                    Range           30 feet                    Area           10-foot burst                    Save           Fortitude                                  A cacophonous noise blasts out, dealing 2d10 sonic damage. Each creature must attempt a Fortitude save.      Heightened (per +1 Mana)   The damage increases by 1d10                                   Critical Success           The creature is unaffected                             Success           The creature takes half damage                             Failure           The creature takes full damage and is deafened for 1 round                             Critical Failure           The creature takes double damage and is deafened and slowed 1 for 1 minute                                               Spell Shaper              Veteran                        When you use a Blaster attack power with a range of at least 30 feet, you can decrease the range to Touch to get a +2 bonus to the attack roll.                                  Cone of Cold                              Veteran                                       Cold                    Spell                                                      Cost           5 Mana                    Area           60-foot cone                    Save           Reflex                                  Icy cold rushes forth from your hands. You deal 12d6 cold damage to creatures in the area.      Heightened (per +1 Mana)   The damage increases by 2d6                                  Fireball                              Veteran                                       Fire                    Spell                                                      Cost           3 Mana                    Range           500 feet                    Area           20-foot burst                    Save           Reflex                                  A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage.      Heightened (per +1 Mana)   The damage increases by 2d6                                  Lightning Bolt                              Veteran                                       Electricity                    Spell                                                      Cost           3 Mana                    Area           120-foot line                    Save           Reflex                                  A bolt of lightning strikes outward from your hand, dealing 4d12 electricity damage.      Heightened (per +1 Mana)   The damage increases by 1d12                                  Chain Lightning                              Master                                       Electricity                    Spell                                                      Cost           6 Mana                    Range           30 feet                    Save           Reflex                                  You discharge a powerful bolt of lightning at the target, dealing 8d12 electricity damage. The target must attempt a Reflex save. The electricity arcs to another creature within 30 feet of the first target, jumps to another creature within 30 feet of that target, and so on. You can end the chain at any point. You can’t target the same creature more than once, and you must be able to see all targets. Roll the damage only once, and apply it to each target. The chain ends if any target critical succeeds at its save.      Heightened (per +1 Mana)   The damage increases by 1d12                                  Disintegrate                              Master                                       Attack                    Spell                                                      Cost           6 Mana                    Range           120 feet                                  You fire a green ray at your target. Make a spell attack. If you hit, you deal 12d10 damage, or twice as much on a critical hit. A creature reduced to 0 HP is reduced to fine powder. An object you hit is destroyed if it would fit within a 10-foot cube, regardless of its HP, unless it’s an artifact or similarly hard to destroy.                                  Polar Ray                              Master                                       Attack                    Cold                    Spell                                                      Cost           8 Mana                    Range           120 feet                                  You fire a blue-white ray of freezing air and swirling sleet from your finger that can chill your target to the bones. You must succeed at a spell attack roll to affect the target, which then takes 10d8 damage and is drained 2.      Heightened (per +1 Mana)   The damage increases by 2d8                                  Implosion                              Epic                                       Spell                                                      Cost           9 Mana                    Range           30 feet                    Save           Fortitude                    Duration           Sustained, up to 1 minute                                  You crush the target by causing it to collapse in on itself, dealing 75 damage. Each time you Sustain the spell, you must choose a new target to be subject to the same effect. You can’t target the same creature twice during a single casting of this spell, you can’t Sustain this spell multiple times per turn, and you can’t target a creature that lacks a solid form.                                  Meteor Swarm                              Epic                                       Spell                                                      Cost           9 Mana                    Range           500 feet                    Save           Reflex                                  You call down four meteors that explode in fiery blasts. Each meteor deals 6d10 bludgeoning damage to all creatures in a 10-foot burst, then explodes, dealing 14d6 fire damage to all creatures in a 40-foot burst. A creature hit by multiple meteors takes damage only once.      Heightened (per +1 Mana)   The bludgeoning damage increases by 1d10, and the fire damage increases by 2d6",
         "url": "/blaster.html"
       }
       
@@ -431,7 +431,7 @@ var store = [
 
       {
         "title": "Fundamentalist",
-        "excerpt": "Name     Tier     Type     Description",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Counterspell                  Novice         Reaction                                                        Dispel Magic                  Novice         2-Action                                                        Illusory Disguise                  Novice         2-Action                                                        Metamagic                  Novice         1-Action                                                        Misty Step                  Novice         1-Action                                                        Dimension Door                  Veteran         2-Action                                                        Greater Metamagic                  Veteran         Passive                                                        Resilient Sphere                  Veteran         2-Action                                                        Project Image                  Master         2-Action                                                        Redirect Gravity                  Master         3-Action                                                        Reflect Spell                  Master         Passive                                                        Metamagic Mastery                  Epic         Passive                                                        Time Stop                  Epic         3-Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Counterspell                              Novice                                             Trigger           A creature you can see within 60 feet casts a spell                    Cost           The amount of Mana the other caster expends                                  The other spell has no effect.                                  Dispel Magic                              Novice                                       Spell                                                      Cost           2 Mana                    Range           120 feet                    Target           One spell effect                                  You unravel the magic behind a spell or effect. Make a Sorcery roll against the Sorcery DC of the creature that cast the spell. If you succeed, the target spell immediately ends.                                  Illusory Disguise                              Novice                                       Spell                    Visual                                                      Cost           1 Mana                                  You create an illusion that cuases you to appear as another creature of the same body shape, and with roughly similar height and weight as yourself. The disguise is typically good enough to hide your identity, but not to impersonate a specific individual. The spell doesn’t change your voice, scent, or mannerisms. You can change the appearance of your clothing and worn items, but held items are unaffected, and any worn item you remove returns to its true appearance.      Heightened (total 2 Mana)   The spell also disguises your voice and scent, and it gains the auditory trait   Heightened (total 3 Mana)   You can appear as any creature of the same size, even a specific individual as long as you’ve seen them before                                  Metamagic                              Novice                                       Concentrate                    Manipulate                                 You manipulate the energy of your spell, enhancing its effect. If the next action you use it to cast a spell, you modify the spell in one of the following ways.      Reach   Increase the spell’s range by 30 feet   Silent   The spell doesn’t require verbal components   Widen   If the spell’s area is a burst, increase its radius by 5 feet, or if the spell’s area is a line or cone, increase its length by 10 feet                                  Misty Step                              Novice                                       Spell                    Teleportation                                                      Cost           2 Mana                    Range           30 feet                                  You disappear in a swirl of mist, reappearing in a different location. You and any items you’re wearing or holding teleport to clear space within range you can see.                                  Dimension Door                              Veteran                                       Spell                    Teleportation                                                      Cost           4 Mana                    Range           120 feet                                  Opening a door that bypasses normal space, you instantly transport yourself and any items you’re wearing and holding from your current space to a clear space within range you can see. If you attempt to bring another creature with you, the power fails.      Heightened (total 5 Mana)   The range increases to 1 mile, and you don’t need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you                                  Greater Metamagic              Veteran                                             Prerequisites           Metamagic                                  You can modify your spells in a broad variety of ways. Your Metamagic power gains the following options.      Conservation   If you spend at least 1 Mana on this spell, you reduce the cost of one spell you cast next turn by 1 Mana   Overwhelming   The spell ignores any resistances to acid, cold, electricity, fire, or sonic damage   Quickened   The spell takes 2 fewer actions to cast, but the strain of doing so means you can’t use Metamagic again until you take a long rest                                  Resilient Sphere                              Veteran                                       Force                    Spell                                                      Cost           4 Mana                    Range           30 feet                    Duration           1 minute                                  You create an immobile sphere of force to either trap or protect the target, blocking anything that would pass through the sphere. The sphere has AC 5, Hardness 10, and 40 HP. It’s immune to critical hits and precision damage. If the target is unwilling, it can make a Reflex save, with the following effect.                                   Critical Success           The target disrupts the sphere's integrity, causing it to collapse entirely                             Success           The sphere functions normally but has only 10 HP instead of 40                             Failure           The sphere has its normal effect                                                        Project Image                              Master                                       Mental                    Spell                                                      Cost           7 Mana                    Range           30 feet                    Duration           Sustained up to 1 minute                                  You project an illusory image of yourself. You must stay within range of the image, and if at any point you can’t see the image, the spell ends. Whenever you cast a spell, you can cause the spell effect to originate from either yourself or the image. Because the image is an illusion, it isn’t a creature and can’t benefit from spells. The image has the same AC and saves as you. If it is hit by an attack or fails a save, the spell ends.      Heightened (total 9 Mana)   The maximum duration you can Sustan the spell increases to 10 minutes                                  Redirect Gravity                              Master                                       Spell                                                      Cost           7 Mana                    Range           120 feet                    Area           30-foot burst                    Duration           1 minute                                  You change the direction of gravity in the area. Creatures and objects that aren’t secured to the ground immediately fall towards the new direction you designate as down. Rules for falling and fall damage apply as normal. A creature partially inside the area is caught between normal and redirected gravity, and is pulled in both directions at once.                                  Reflect Spell              Master                                             Prerequisites           Counterspell                                  When you use Counterspell to counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal.                                  Metamagic Mastery              Epic                                             Prerequisites           Metamagic                                  Altering your spells doesn’t take any longer than casting them normally. You can use Metamagic as a Free power.                                  Time Stop                              Epic                                       Spell                                                      Cost           10 Mana                                  You temporarily stop time for everything but yourself, allowing you to use several actions in what appears to others to be no time at all. Immediately after using this power, you take 3 turns. Rounds only pass for you, effects specifically targeting or affecting you, and effects you create during the stoppage. All other creatures and objects are invulnerable and can’t be targeted or affected by anything. Once you have finished your turns, time begins to flow again for the rest of the world.",
         "url": "/fundamentalist.html"
       }
       
@@ -457,7 +457,7 @@ var store = [
 
       {
         "title": "Psion",
-        "excerpt": "Name     Tier     Type     Description",
+        "excerpt": "Name     Tier     Type     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Charming Words                  Novice         1-Action                                                        Command                  Novice         2-Action                                                        Phantom Pain                  Novice         2-Action                                                        Confusion                  Veteran         2-Action                                                        Mind Reading                  Veteran         2-Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Charming Words                              Novice                                       Auditory                    Incapacitation                    Linguistic                    Mental                    Spell                                                      Cost           1 Mana                    Range           30 feet                    Save           Will                    Duration           Until the start of your next turn                                  You whisper enchanting words to deflect your foe’s ire. The target must attempt a Will save.                                   Critical Success           The target is unaffected                             Success           The target takes a -1 penalty to attack rolls and damage rolls against you                             Failure           The target can't use hostile actions against you                             Critical Failure           The target is stunned 1 and can't use hostile actions against you                                               Command                              Novice                                       Auditory                    Linguistic                    Mental                    Spell                                                      Cost           1 Mana                    Range           30 feet                    Save           Will                    Duration           Until the end of the target's next turn                                  You should a command that’s hard to ignore. You can command the target to approach you, run away (as if it had the fleeing condition), release what it’s holding, drop prone, or stand in place. It can’t Delay or take any reactions until it has obeyed your command. The effects depend on the target’s Will save.      Heightened (total 5 Mana)   You can target up to 10 creatures                                            Success           The creature is unaffected                             Failure           For the first action on its next turn, the creature must use a single action to do as you command                             Critical Failure           The target must use all its actions on its next turn to obey your command                                               Phantom Pain                              Novice                                       Mental                    Spell                                                      Cost           1 Mana                    Range           30 feet                    Save           Will                    Duration           1 minute                                  Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage. The target must attempt a Will save.                                   Critical Success           The target is unaffected                             Success           The target takes full initial damage but no persistent damage, and the spell ends immediately                             Failure           The target takes full initial and persistant damage, and the target is sickened 1                             Critical Failure           As failure, but the target is sickened 2                                               Confusion                              Veteran                                       Emotion                    Mental                    Spell                                                      Cost           4 Mana                    Range           30 feet                    Save           Will                                  You befuddle your target with strange impulses, causing it to act randomly. The effects are determined by the target’s Will save. You can Dismiss the spell.      Heightened (total 8 Mana)   You can target up to 10 creatures                                   Critical Success           The target is unaffected                             Success           The target babbles incoherently and is stunned 1                             Failure           The target is confused for 1 minute, and can attempt a new a new at the end of each of its turn to end the confusion                             Critical Failure           The target is confused for 1 minute, with no save to end early                                               Mind Reading                              Veteran                                       Detection                    Mental                    Spell                                                      Cost           3 Mana                    Range           30 feet                    Save           Will                    Duration           1 round, or sustained up to 1 minute                                  With a cursory mental touch, you attempt to readh the target’s mind. It must attempt a Will save. The target then becomes temporarily immune to your Mind Reading power for 1 hour.                                   Critical Success           The target perceives vague surface thoughts from you                             Success           You find out whether the target's Intelligence is higher than, equal to, or lower than yours                             Failure           You perceive vague surface thoughts from the target, and you find out whether its Intelligence is higher than, equal to, or lower than yours                             Critical Failure           As failure, and for the duration of the spell, you can Sustain to detect the target's surface throughts again",
         "url": "/psion.html"
       }
       
@@ -574,7 +574,7 @@ var store = [
 
       {
         "title": "Administer First Aid",
-        "excerpt": "Manipulate         Type   2-Action         Requirements     You have healer's tools        You perform first aid on an adjacent creature with the dying condition. Attempt a Medicine roll with DC 15.                        Success       The creature loses the dying condition (but remains downed)                      Critical Failure       The creature's dying condition increases by 1",
+        "excerpt": "Manipulate              Type   2-Action         Requirements     You have healer's tools        You perform first aid on an adjacent creature with the dying condition. Attempt a Medicine roll with DC 15.                        Success       The creature loses the dying condition (but remains downed)                      Critical Failure       The creature's dying condition increases by 1",
         "url": "/administer-first-aid.html"
       }
       
@@ -587,7 +587,7 @@ var store = [
 
       {
         "title": "Drop Prone",
-        "excerpt": "Move         Type   1-Action         You fall prone.",
+        "excerpt": "Move              Type   1-Action         You fall prone.",
         "url": "/drop-prone.html"
       }
       
@@ -600,7 +600,7 @@ var store = [
 
       {
         "title": "Interact",
-        "excerpt": "Manipulate         Type   1-Action         You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, open a door, or produce some similar effect. You might have to attempt a skill roll to determine if your Interact action was successful.",
+        "excerpt": "Manipulate              Type   1-Action         You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, open a door, or produce some similar effect. You might have to attempt a skill roll to determine if your Interact action was successful.",
         "url": "/interact.html"
       }
       
@@ -613,7 +613,7 @@ var store = [
 
       {
         "title": "Leap",
-        "excerpt": "Move         Type   1-Action         You take a careful, short jump. You can leap up to half your speed horizontally, or up to a quarter of your speed vertically. Jumping a greater distance requires using the Acrobatics skill.",
+        "excerpt": "Move              Type   1-Action         You take a careful, short jump. You can leap up to half your speed horizontally, or up to a quarter of your speed vertically. Jumping a greater distance requires using the Acrobatics skill.",
         "url": "/leap.html"
       }
       
@@ -626,7 +626,7 @@ var store = [
 
       {
         "title": "Release",
-        "excerpt": "Manipulate         Type   Free         You release something you’re holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action.",
+        "excerpt": "Manipulate              Type   Free         You release something you’re holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action.",
         "url": "/release.html"
       }
       
@@ -639,7 +639,7 @@ var store = [
 
       {
         "title": "Seek",
-        "excerpt": "Concentrate         Type   1-Action         You look for a dude (more TBD)",
+        "excerpt": "Concentrate              Type   1-Action         You look for a dude (more TBD)",
         "url": "/seek.html"
       }
       
@@ -652,7 +652,7 @@ var store = [
 
       {
         "title": "Sense Motive",
-        "excerpt": "Concentrate         Type   1-Action         You tell whether a dude is lying (more TBD)",
+        "excerpt": "Concentrate              Type   1-Action         You tell whether a dude is lying (more TBD)",
         "url": "/sense-motive.html"
       }
       
@@ -665,7 +665,7 @@ var store = [
 
       {
         "title": "Stand",
-        "excerpt": "Move         Type   1-Action         You stand up from prone.",
+        "excerpt": "Move              Type   1-Action         You stand up from prone.",
         "url": "/stand.html"
       }
       
@@ -678,7 +678,7 @@ var store = [
 
       {
         "title": "Step",
-        "excerpt": "Move         Type   1-Action         Requirements     Your speed is at least 10 feet        You carefully move 5 feet. Unlike most types of movement, Step doesn’t trigger reactions that are triggered by move actions or upon leaving or entering a square. You can’t Step into difficult terrain.",
+        "excerpt": "Move              Type   1-Action         Requirements     Your speed is at least 10 feet        You carefully move 5 feet. Unlike most types of movement, Step doesn’t trigger reactions that are triggered by move actions or upon leaving or entering a square. You can’t Step into difficult terrain.",
         "url": "/step.html"
       }
       
@@ -691,7 +691,7 @@ var store = [
 
       {
         "title": "Stride",
-        "excerpt": "Move         Type   1-Action         You move a distance up to your speed.",
+        "excerpt": "Move              Type   1-Action         You move a distance up to your speed.",
         "url": "/stride.html"
       }
       
@@ -704,7 +704,7 @@ var store = [
 
       {
         "title": "Strike",
-        "excerpt": "Attack         Type   1-Action         You attack with a weapon you’re wielding, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack). Make an attack roll for the weapon you’re using, and compare the result to your target’s AC to determine the effect. See here for more information.                   Critical Success       As success, but you deal double damage                 Success       You deal damage according to the weapon you're wielding",
+        "excerpt": "Attack              Type   1-Action         You attack with a weapon you’re wielding, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack). Make an attack roll for the weapon you’re using, and compare the result to your target’s AC to determine the effect. See here for more information.                   Critical Success       As success, but you deal double damage                 Success       You deal damage according to the weapon you're wielding",
         "url": "/strike.html"
       }
       
@@ -717,7 +717,7 @@ var store = [
 
       {
         "title": "Take Aim",
-        "excerpt": "Concentrate         Type   1-Action         Requirements     You are wielding a ranged weapon        The range penalty you take for attacking targets beyond your first range increment decreases to -2 for each range increment after the first (instead of -5). This applies only to the first attack you make before the end of your turn.",
+        "excerpt": "Concentrate              Type   1-Action         Requirements     You are wielding a ranged weapon        The range penalty you take for attacking targets beyond your first range increment decreases to -2 for each range increment after the first (instead of -5). This applies only to the first attack you make before the end of your turn.",
         "url": "/take-aim.html"
       }
       
@@ -743,7 +743,7 @@ var store = [
 
       {
         "title": "Crane Stance",
-        "excerpt": "Stance         Type   1-Action         Requirements     You are unarmored        You enter the stance of a crane, using flowing defensive motions. You gain a +1 bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage, and have the agile, finnesse, and unarmed traits. You also gain a +5 bonus to skill rolls made to jump.",
+        "excerpt": "Stance              Type   1-Action         Requirements     You are unarmored        You enter the stance of a crane, using flowing defensive motions. You gain a +1 bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage, and have the agile, finesse, and unarmed traits.   While in Crane Stance, you gain a +5 bonus to skill rolls made to jump.",
         "url": "/crane-stance.html"
       }
       
@@ -755,9 +755,9 @@ var store = [
       
 
       {
-        "title": "Dragon Stance",
-        "excerpt": "Stance         Type   1-Action         Requirements     You are unarmored        You enter the stance of a dragon and make powerful strikes like a lashing dragon’s tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They have the backswing and unarmed traits. While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.",
-        "url": "/dragon-stance.html"
+        "title": "Fantastic Leap",
+        "excerpt": "Type   2-Action         You launch yourself through the air at a foe. Make a Leap or attempt a High Jump or Long Jump. At the end of your jump, you can make a melee Strike, even if you’re in mid-air. You fall to the ground after the Strike. If the distance of your fall is no more than the height of your jump, you take no damage and land upright.",
+        "url": "/fantastic-leap.html"
       }
       
         ,
@@ -768,9 +768,9 @@ var store = [
       
 
       {
-        "title": "Flurry",
-        "excerpt": "Flourish         Type   1-Action         Make two melee Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your MAP to the Strikes normally.",
-        "url": "/flurry.html"
+        "title": "Flurry of Blows",
+        "excerpt": "Flourish              Type   1-Action         Make two melee Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your MAP to the Strikes normally.",
+        "url": "/flurry-of-blows.html"
       }
       
         ,
@@ -807,8 +807,34 @@ var store = [
       
 
       {
+        "title": "Stunning Fist",
+        "excerpt": "Incapacitation              Type   Free         Prerequisites     Flurry of Blows        Trigger     You target the same creature with two Strikes from your Flurry of Blows, and at least one of the Strikes hits and deals damage.        The focused power of your flurry threatens to overwhelm your opponent. Your target must succeed at a Fortitude save against a DC of 10 + Strength + Prof of be stunned 1 (or stunned 3 on a critical failure).",
+        "url": "/stunning-fist.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Agile Grace",
+        "excerpt": "Type   Passive         Your graceful moves with agile weapons are beyond compare. Your multiple attack penalty with agile weapons becomes -3 for each attack action you’ve used so far this turn (rather than -4).",
+        "url": "/agile-grace.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
         "title": "Sleeper Hold",
-        "excerpt": "Attack        Incapacitation         Type   1-Action         Requirements     You have a creature grabbed or restrained        You pinch crucial points of your target’s nervous system, impeding its ability to function. Attempt a Wrestling check to Grapple the creature, with the following success and critical success effects instead of the usual effects.                   Critical Success       The target falls unconscious for 1 minute, though it remains standing and doesn't drop what it holds                 Success       The target takes a -1 penalty to Agility until the end of its next turn",
+        "excerpt": "Attack            Incapacitation              Type   1-Action         Requirements     You have a creature grabbed or restrained        You pinch crucial points of your target’s nervous system, impeding its ability to function. Attempt a Wrestling check to Grapple the creature, with the following success and critical success effects instead of the usual effects.                   Critical Success       The target falls unconscious for 1 minute, though it remains standing and doesn't drop what it holds                 Success       The target takes a -1 penalty to Agility until the end of its next turn",
         "url": "/sleeper-hold.html"
       }
       
@@ -859,6 +885,19 @@ var store = [
       
 
       {
+        "title": "Whirlwind Strike",
+        "excerpt": "Flourish            Open              Type   3-Action         You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts towards your MAP, but do not increase your penalty until you have made all your attacks.",
+        "url": "/whirlwind-strike.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
         "title": "Enduring Quickness",
         "excerpt": "Type   Passive         You move as fast and as high as the wind itself. You’re permanently quickened. You can use your extra action only to Stride or Leap.",
         "url": "/enduring-quickness.html"
@@ -885,60 +924,8 @@ var store = [
       
 
       {
-        "title": "Hunt Prey",
-        "excerpt": "Concentrate         Type   1-Action         Duration     24 hours, or until you use this power again        You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 bonus to Perception rolls or Survival rolls made to Seek or Track your prey. You also ignore the penalty for making ranged attacks within your second increment against the prey you’re hunting.",
-        "url": "/hunt-prey.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Camouflage",
-        "excerpt": "Type   Passive         You alter your appearance to blend in to your surroundings. While outdoors, you can Sneak even if you’re observed.",
-        "url": "/camouflage.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Double Prey",
-        "excerpt": "Type   Passive         Requirements     Hunt Prey        You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey power, you can pick two creatures as your prey.",
-        "url": "/double-prey.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Master Strike",
-        "excerpt": "Incapacitation         Type   Free         Trigger     Your Strike hits a flat-footed creature and deals damage        The target attempts a Fortitude save against a DC of 10 + Precision + Prof. It then becomes temporarily immune to your Master Strike for 1 day.                   Critical Success       The target is unaffected                 Success       The target takes a -2 penalty to Strength until the end of your next turn                 Failure       The target is paralyzed for 4 rounds                 Critical Failure       The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (your choice)",
-        "url": "/master-strike.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
         "title": "Brutish Shove",
-        "excerpt": "Press         Type   1-Action         Requirements     You are wielding a two-handed melee weapon        Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically apply the effects of the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn’t trigger reactions.   This Strike has the following failure effect.                             Failure       The target becomes flat-footed until the end of your current turn",
+        "excerpt": "Press              Type   1-Action         Requirements     You are wielding a two-handed melee weapon        Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically apply the effects of the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn’t trigger reactions.   This Strike has the following failure effect.                             Failure       The target becomes flat-footed until the end of your current turn",
         "url": "/brutish-shove.html"
       }
       
@@ -950,8 +937,21 @@ var store = [
       
 
       {
+        "title": "Mountain Stance",
+        "excerpt": "Stance              Type   1-Action         Requirements     You are unarmored and touching the ground        You end the stance of an implacable mountain and strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage and have the forceful and unarmed traits.   While in Mountain Stance, you gain a +4 bonus to AC and a +2 bonus to any defenses against being Shoved or Tripped. However, you don’t add your Agility to your AC, and your Speed is reduced by 5 feet.",
+        "url": "/mountain-stance.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
         "title": "Power Attack",
-        "excerpt": "Flourish         Type   2-Action         You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike (which counts as two attacks when calculating your MAP). If this Strike hits, you deal an extra die of weapon damage.",
+        "excerpt": "Flourish              Type   2-Action         You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike (which counts as two attacks when calculating your MAP). If this Strike hits, you deal an extra die of weapon damage.",
         "url": "/power-attack.html"
       }
       
@@ -964,7 +964,7 @@ var store = [
 
       {
         "title": "Rage",
-        "excerpt": "Concentrate        Emotion        Encounter        Mental         Type   1-Action         Duration     1 minute, until you can't sense any enemies, or until you fall unconscious        You tap into your inner fury and begin raging. You gain temporary HP equal to Level + Strength. While raging, you deal 2 additional damage with melee strikes, you take a -1 penalty to AC, and you can’t use actions with Concentrate unless they also have Rage.",
+        "excerpt": "Concentrate            Emotion            Encounter            Mental              Type   1-Action         Duration     1 minute, until you can't sense any enemies, or until you fall unconscious        You tap into your inner fury and begin raging. You gain temporary HP equal to Level + Strength. While raging, you deal 2 additional damage with melee strikes, you take a -1 penalty to AC, and you can’t use actions with Concentrate unless they also have Rage.",
         "url": "/rage.html"
       }
       
@@ -977,7 +977,7 @@ var store = [
 
       {
         "title": "Sudden Charge",
-        "excerpt": "Flourish        Open         Type   2-Action         With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within reach of at least one enemy, you can make a melee Strike against that enemy.",
+        "excerpt": "Flourish            Open              Type   2-Action         With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within reach of at least one enemy, you can make a melee Strike against that enemy.",
         "url": "/sudden-charge.html"
       }
       
@@ -990,7 +990,7 @@ var store = [
 
       {
         "title": "Swipe",
-        "excerpt": "Flourish         Type   2-Action         You make a wide, arcing swing. Make a single melee Strike and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts a two attacks for MAP. If you’re using a weapon with the sweep trait, its modifier applies to all your Swipe attacks.",
+        "excerpt": "Flourish              Type   2-Action         You make a wide, arcing swing. Make a single melee Strike and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts a two attacks for MAP. If you’re using a weapon with the sweep trait, its modifier applies to all your Swipe attacks.",
         "url": "/swipe.html"
       }
       
@@ -1003,7 +1003,7 @@ var store = [
 
       {
         "title": "Cleave",
-        "excerpt": "Rage         Type   Reaction         Trigger     Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature        You swing clear through one foe and into another. Make a melee Strike against the second foe.",
+        "excerpt": "Rage              Type   Reaction         Trigger     Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature        You swing clear through one foe and into another. Make a melee Strike against the second foe.",
         "url": "/cleave.html"
       }
       
@@ -1015,8 +1015,21 @@ var store = [
       
 
       {
+        "title": "Furious Focus",
+        "excerpt": "Type   Passive         Prerequisites     Power Attack        You’ve learned to maintain your balance even when swinging furiously. When you make a Power Attack with a melee weapon you’re wielding in two hands, it counts as one attack toward MAP instead of two.",
+        "url": "/furious-focus.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
         "title": "Giant's Stature",
-        "excerpt": "Polymorph        Rage         Type   1-Action         Requirements     You are Medium size or smaller        You grow to incredible size. You become Large, increasing your reach by 5 feet and taking a -1 penalty to Agility until you stop raging. Your equipment grows with you.",
+        "excerpt": "Polymorph            Rage              Type   1-Action         Requirements     You are Medium size or smaller        You grow to incredible size. You become Large, increasing your reach by 5 feet and taking a -1 penalty to Agility until you stop raging. Your equipment grows with you.",
         "url": "/giant-s-stature.html"
       }
       
@@ -1041,9 +1054,269 @@ var store = [
       
 
       {
+        "title": "Acid Arrow",
+        "excerpt": "Acid            Attack            Spell              Type   2-Action         Cost     2 Mana        Range     120 feet        You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target. On a hit, you deal 3d8 acid damage plus 1d6 persistent acid damage. On a critical hit, double the initial damage, but not the persistent damage.      Heightened (per +2 Mana)   The intial damage increases by 2d8, and the persistant acid damage increases by 1d6",
+        "url": "/acid-arrow.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Dangerous Sorcery",
+        "excerpt": "Type   Passive         Your arcane knowledge grants you great destructive power. When you cast a spell, if the spell deals damage and doesn’t have a duration, you gain a bonus to that spell’s damage equal to your Blaster level.",
+        "url": "/dangerous-sorcery.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Magic Missile",
+        "excerpt": "Attack            Force            Spell              Type   1-Action         Cost     1 Mana        Range     30 feet        You fire an unerring dart of force from your fingertips. It automatically hits and deals 1d4+1 force damage to the target.",
+        "url": "/magic-missile.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Powerbolt",
+        "excerpt": "Attack            Spell              Type   2-Action         Range     60 feet        You fire a bolt of damaging magical energies that impacts with violent force. Make a spell attack. If you hit, you deal 1d6 + Intelligence damage, or twice as much damage on a critical hit. The damage increases by 1d6 for every Blaster power you know other than this one.",
+        "url": "/powerbolt.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Sound Burst",
+        "excerpt": "Spell            Sonic              Type   2-Action         Cost     2 Mana        Range     30 feet        Area     10-foot burst        Save     Fortitude        A cacophonous noise blasts out, dealing 2d10 sonic damage. Each creature must attempt a Fortitude save.      Heightened (per +1 Mana)   The damage increases by 1d10                   Critical Success       The creature is unaffected                 Success       The creature takes half damage                 Failure       The creature takes full damage and is deafened for 1 round                 Critical Failure       The creature takes double damage and is deafened and slowed 1 for 1 minute",
+        "url": "/sound-burst.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Spell Shaper",
+        "excerpt": "Type   Passive         When you use a Blaster attack power with a range of at least 30 feet, you can decrease the range to Touch to get a +2 bonus to the attack roll.",
+        "url": "/spell-shaper.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Cone of Cold",
+        "excerpt": "Cold            Spell              Type   2-Action         Cost     5 Mana        Area     60-foot cone        Save     Reflex        Icy cold rushes forth from your hands. You deal 12d6 cold damage to creatures in the area.      Heightened (per +1 Mana)   The damage increases by 2d6",
+        "url": "/cone-of-cold.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Fireball",
+        "excerpt": "Fire            Spell              Type   2-Action         Cost     3 Mana        Range     500 feet        Area     20-foot burst        Save     Reflex        A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage.      Heightened (per +1 Mana)   The damage increases by 2d6",
+        "url": "/fireball.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Lightning Bolt",
+        "excerpt": "Electricity            Spell              Type   2-Action         Cost     3 Mana        Area     120-foot line        Save     Reflex        A bolt of lightning strikes outward from your hand, dealing 4d12 electricity damage.      Heightened (per +1 Mana)   The damage increases by 1d12",
+        "url": "/lightning-bolt.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Chain Lightning",
+        "excerpt": "Electricity            Spell              Type   2-Action         Cost     6 Mana        Range     30 feet        Save     Reflex        You discharge a powerful bolt of lightning at the target, dealing 8d12 electricity damage. The target must attempt a Reflex save. The electricity arcs to another creature within 30 feet of the first target, jumps to another creature within 30 feet of that target, and so on. You can end the chain at any point. You can’t target the same creature more than once, and you must be able to see all targets. Roll the damage only once, and apply it to each target. The chain ends if any target critical succeeds at its save.      Heightened (per +1 Mana)   The damage increases by 1d12",
+        "url": "/chain-lightning.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Disintegrate",
+        "excerpt": "Attack            Spell              Type   2-Action         Cost     6 Mana        Range     120 feet        You fire a green ray at your target. Make a spell attack. If you hit, you deal 12d10 damage, or twice as much on a critical hit. A creature reduced to 0 HP is reduced to fine powder. An object you hit is destroyed if it would fit within a 10-foot cube, regardless of its HP, unless it’s an artifact or similarly hard to destroy.",
+        "url": "/disintegrate.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Polar Ray",
+        "excerpt": "Attack            Cold            Spell              Type   2-Action         Cost     8 Mana        Range     120 feet        You fire a blue-white ray of freezing air and swirling sleet from your finger that can chill your target to the bones. You must succeed at a spell attack roll to affect the target, which then takes 10d8 damage and is drained 2.      Heightened (per +1 Mana)   The damage increases by 2d8",
+        "url": "/polar-ray.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Implosion",
+        "excerpt": "Spell              Type   2-Action         Cost     9 Mana        Range     30 feet        Save     Fortitude        Duration     Sustained, up to 1 minute        You crush the target by causing it to collapse in on itself, dealing 75 damage. Each time you Sustain the spell, you must choose a new target to be subject to the same effect. You can’t target the same creature twice during a single casting of this spell, you can’t Sustain this spell multiple times per turn, and you can’t target a creature that lacks a solid form.",
+        "url": "/implosion.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Meteor Swarm",
+        "excerpt": "Spell              Type   2-Action         Cost     9 Mana        Range     500 feet        Save     Reflex        You call down four meteors that explode in fiery blasts. Each meteor deals 6d10 bludgeoning damage to all creatures in a 10-foot burst, then explodes, dealing 14d6 fire damage to all creatures in a 40-foot burst. A creature hit by multiple meteors takes damage only once.      Heightened (per +1 Mana)   The bludgeoning damage increases by 1d10, and the fire damage increases by 2d6",
+        "url": "/meteor-swarm.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Cyberblade Stance",
+        "excerpt": "Stance              Type   1-Action         You extend metal blades from your arms and can make cyberblade attacks. These deal 1d8 slashing damage, and have the agile, finesse, and unarmed traits. On a critical success with your cyberblade, if you deal damage, the target takes 1d4 persistent bleed damage.   As long as your Speed is at least 20 feet while in Cyberblade Stance, you can Step 10 feet.",
+        "url": "/cyberblade-stance.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Cyberblade Slash",
+        "excerpt": "Type   2-Action         Prerequisites     Cyberblade Stance        Requirements     You are in Cyberblade Stance        You make a fierce swipe with both hands. Make a cyberblade Strike. It deals 2d8 extra damage (3d8 if you’re 14th level or higher), and you can push the target 5 feet away as if you had successfully Shoved them. If the attack is a critical success and deals damage, add your Strength to the persistent bleed damage from your cyberblade.",
+        "url": "/cyberblade-slash.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Diamond Soul",
+        "excerpt": "Type   Passive         You have fortified your body and mind against eldritch effects. You gain a +1 bonus to saving throws against magic.",
+        "url": "/diamond-soul.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Synaptic Booster",
+        "excerpt": "Type   Passive         Your skill with weapons lets you attack swiftly at all times. You’re permanently quickened. You can use your extra action only to Strike.",
+        "url": "/synaptic-booster.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Attack of Opportunity",
+        "excerpt": "Type   Reaction         Trigger     A creature within your reach uses a Manipulate action or a Move action, makes a ranged attack, or leaves a square during a Move action it's using        You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger is a Manipulate action, your disrupt that action. This Strike doesn’t count toward MAP, and MAP doesn’t apply to this Strike.",
+        "url": "/attack-of-opportunity.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
         "title": "Deflect Bullet",
         "excerpt": "Type   Reaction         Trigger     You are the target of a ranged attack        Requirements     You're aware of the attack, are not flat-footed against it, and are wielding a melee weapon or have a hand free        You gain a +4 bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this power to deflect usually massive ranged projectiles (such as boulders or ballista bolts).",
         "url": "/deflect-bullet.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Dragon Stance",
+        "excerpt": "Stance              Type   1-Action         Requirements     You are unarmored        You enter the stance of a dragon and make powerful strikes like a lashing dragon’s tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They have the backswing and unarmed traits.   While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.",
+        "url": "/dragon-stance.html"
       }
       
         ,
@@ -1094,8 +1367,21 @@ var store = [
 
       {
         "title": "Disarming Stance",
-        "excerpt": "Stance         Type   1-Action         Requirements     You are wielding a melee weapon        You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 bonus to Wrestling checks to Disarm and a +2 bonus to your Reflex DC when defending against checks to Disarm you.",
+        "excerpt": "Stance              Type   1-Action         Requirements     You are wielding a melee weapon        You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 bonus to Wrestling checks to Disarm and a +2 bonus to your Reflex DC when defending against checks to Disarm you.",
         "url": "/disarming-stance.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Disarming Twist",
+        "excerpt": "Press              Type   1-Action         Requirements     You are wielding a melee weapon        After your initial attack redirects your foe’s defenses, your follow-up wrests their weapon from their grasp. Make a melee Strike. In addition to its other effects, this Strike gains the success and critical succes effects of the Disarm action. The Strike also has the following failure effect.                             Failure       The target is flat-footed until the end of your current turn",
+        "url": "/disarming-twist.html"
       }
       
         ,
@@ -1133,7 +1419,7 @@ var store = [
 
       {
         "title": "Dueling Dance",
-        "excerpt": "Stance         Type   1-Action         Prerequisites     Dueling Parry        Requirements     You are wielding a melee weapon        You both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of Dueling Parry.",
+        "excerpt": "Stance              Type   1-Action         Prerequisites     Dueling Parry        Requirements     You are wielding a melee weapon        You both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of Dueling Parry.",
         "url": "/dueling-dance.html"
       }
       
@@ -1146,7 +1432,7 @@ var store = [
 
       {
         "title": "Guiding Riposte",
-        "excerpt": "Type   Passive         Prerequisites     Dueling Riposte        By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. WHen you use Dueling Riposte to Strike and you hit, you can move the target up to 10 feet into a space in your reach.",
+        "excerpt": "Type   Passive         Prerequisites     Dueling Riposte        By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to Strike and you hit, you can move the target up to 10 feet into a space in your reach.",
         "url": "/guiding-riposte.html"
       }
       
@@ -1174,6 +1460,461 @@ var store = [
         "title": "Boundless Reprisals",
         "excerpt": "Type   Passive         With a sixth sense for the flow of combat, you can quickly react to any situation as required. At the start of each enemy’s turn, you gain a reaction you can use only during that turn.",
         "url": "/boundless-reprisals.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Counterspell",
+        "excerpt": "Type   Reaction         Trigger     A creature you can see within 60 feet casts a spell        Cost     The amount of Mana the other caster expends        The other spell has no effect.",
+        "url": "/counterspell.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Dispel Magic",
+        "excerpt": "Spell              Type   2-Action         Cost     2 Mana        Range     120 feet        Target     One spell effect        You unravel the magic behind a spell or effect. Make a Sorcery roll against the Sorcery DC of the creature that cast the spell. If you succeed, the target spell immediately ends.",
+        "url": "/dispel-magic.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Illusory Disguise",
+        "excerpt": "Spell            Visual              Type   2-Action         Cost     1 Mana        You create an illusion that cuases you to appear as another creature of the same body shape, and with roughly similar height and weight as yourself. The disguise is typically good enough to hide your identity, but not to impersonate a specific individual. The spell doesn’t change your voice, scent, or mannerisms. You can change the appearance of your clothing and worn items, but held items are unaffected, and any worn item you remove returns to its true appearance.      Heightened (total 2 Mana)   The spell also disguises your voice and scent, and it gains the auditory trait   Heightened (total 3 Mana)   You can appear as any creature of the same size, even a specific individual as long as you’ve seen them before",
+        "url": "/illusory-disguise.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Metamagic",
+        "excerpt": "Concentrate            Manipulate              Type   1-Action         You manipulate the energy of your spell, enhancing its effect. If the next action you use it to cast a spell, you modify the spell in one of the following ways.      Reach   Increase the spell’s range by 30 feet   Silent   The spell doesn’t require verbal components   Widen   If the spell’s area is a burst, increase its radius by 5 feet, or if the spell’s area is a line or cone, increase its length by 10 feet",
+        "url": "/metamagic.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Misty Step",
+        "excerpt": "Spell            Teleportation              Type   1-Action         Cost     2 Mana        Range     30 feet        You disappear in a swirl of mist, reappearing in a different location. You and any items you’re wearing or holding teleport to clear space within range you can see.",
+        "url": "/misty-step.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Dimension Door",
+        "excerpt": "Spell            Teleportation              Type   2-Action         Cost     4 Mana        Range     120 feet        Opening a door that bypasses normal space, you instantly transport yourself and any items you’re wearing and holding from your current space to a clear space within range you can see. If you attempt to bring another creature with you, the power fails.      Heightened (total 5 Mana)   The range increases to 1 mile, and you don’t need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you",
+        "url": "/dimension-door.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Greater Metamagic",
+        "excerpt": "Type   Passive         Prerequisites     Metamagic        You can modify your spells in a broad variety of ways. Your Metamagic power gains the following options.      Conservation   If you spend at least 1 Mana on this spell, you reduce the cost of one spell you cast next turn by 1 Mana   Overwhelming   The spell ignores any resistances to acid, cold, electricity, fire, or sonic damage   Quickened   The spell takes 2 fewer actions to cast, but the strain of doing so means you can’t use Metamagic again until you take a long rest",
+        "url": "/greater-metamagic.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Resilient Sphere",
+        "excerpt": "Force            Spell              Type   2-Action         Cost     4 Mana        Range     30 feet        Duration     1 minute        You create an immobile sphere of force to either trap or protect the target, blocking anything that would pass through the sphere. The sphere has AC 5, Hardness 10, and 40 HP. It’s immune to critical hits and precision damage. If the target is unwilling, it can make a Reflex save, with the following effect.                   Critical Success       The target disrupts the sphere's integrity, causing it to collapse entirely                 Success       The sphere functions normally but has only 10 HP instead of 40                 Failure       The sphere has its normal effect",
+        "url": "/resilient-sphere.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Project Image",
+        "excerpt": "Mental            Spell              Type   2-Action         Cost     7 Mana        Range     30 feet        Duration     Sustained up to 1 minute        You project an illusory image of yourself. You must stay within range of the image, and if at any point you can’t see the image, the spell ends. Whenever you cast a spell, you can cause the spell effect to originate from either yourself or the image. Because the image is an illusion, it isn’t a creature and can’t benefit from spells. The image has the same AC and saves as you. If it is hit by an attack or fails a save, the spell ends.      Heightened (total 9 Mana)   The maximum duration you can Sustan the spell increases to 10 minutes",
+        "url": "/project-image.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Redirect Gravity",
+        "excerpt": "Spell              Type   3-Action         Cost     7 Mana        Range     120 feet        Area     30-foot burst        Duration     1 minute        You change the direction of gravity in the area. Creatures and objects that aren’t secured to the ground immediately fall towards the new direction you designate as down. Rules for falling and fall damage apply as normal. A creature partially inside the area is caught between normal and redirected gravity, and is pulled in both directions at once.",
+        "url": "/redirect-gravity.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Reflect Spell",
+        "excerpt": "Type   Passive         Prerequisites     Counterspell        When you use Counterspell to counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal.",
+        "url": "/reflect-spell.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Metamagic Mastery",
+        "excerpt": "Type   Passive         Prerequisites     Metamagic        Altering your spells doesn’t take any longer than casting them normally. You can use Metamagic as a Free power.",
+        "url": "/metamagic-mastery.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Time Stop",
+        "excerpt": "Spell              Type   3-Action         Cost     10 Mana        You temporarily stop time for everything but yourself, allowing you to use several actions in what appears to others to be no time at all. Immediately after using this power, you take 3 turns. Rounds only pass for you, effects specifically targeting or affecting you, and effects you create during the stoppage. All other creatures and objects are invulnerable and can’t be targeted or affected by anything. Once you have finished your turns, time begins to flow again for the rest of the world.",
+        "url": "/time-stop.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Far Shot",
+        "excerpt": "Type   Passive         Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.",
+        "url": "/far-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Hunt Prey",
+        "excerpt": "Concentrate              Type   1-Action         Duration     24 hours, or until you use this power again        You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 bonus to Perception rolls or Survival rolls made to Seek or Track your prey. You also ignore the penalty for making ranged attacks within your second increment against the prey you’re hunting. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage.",
+        "url": "/hunt-prey.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Hunter's Aim",
+        "excerpt": "Concentrate              Type   2-Action         By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 bonus to the attack roll and ignore the target’s concealed condition.",
+        "url": "/hunter-s-aim.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Camouflage",
+        "excerpt": "Type   Passive         You alter your appearance to blend in to your surroundings. While outdoors, you can Sneak even if you’re observed.",
+        "url": "/camouflage.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Deadly Aim",
+        "excerpt": "Open              Type   1-Action         You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a -2 penalty. Your Strike’s damage increases by 2 + Prof.",
+        "url": "/deadly-aim.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Debilitating Shot",
+        "excerpt": "Flourish              Type   2-Action         Aiming for a weak point, you impede your foe with a precise shot. Make a ranged weapon Strike. If it hits and deals damage, the target is slowed 1 until the end of its next turn.",
+        "url": "/debilitating-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Incredible Ricochet",
+        "excerpt": "Concentrate            Press              Type   2-Action         After your first shot singles out your opponent’s position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike. You ignore the target’s concealed condition and all cover.",
+        "url": "/incredible-ricochet.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Double Prey",
+        "excerpt": "Type   Passive         Prerequisites     Hunt Prey        You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey power, you can pick two creatures as your prey.",
+        "url": "/double-prey.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Legendary Shot",
+        "excerpt": "Type   Passive         Prerequisites     Far Shot, Hunt Prey        Your focus on your hunted prey, perceiving angles, air resistance, and every variable that would affect your ranged attack. You can ignore the penalty for attacking up to five range increments away when attacking your hunted prey.",
+        "url": "/legendary-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Shadow Hunter",
+        "excerpt": "Type   Passive         Prerequisites     Camouflage        You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While outdoors, you’re always concealed from all foes if you choose to be.",
+        "url": "/shadow-hunter.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Double Shot",
+        "excerpt": "Flourish              Type   2-Action         Requirements     You are wielding a ranged weapon without the reload trait        You shoot twice in blindingly fast succession. Make two Strikes, each against a separate target and with a -2 penalty. Both attacks count towards MAP, but the penalty doesn’t increase until after you’ve made both of them.",
+        "url": "/double-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Point-Blank Shot",
+        "excerpt": "Open            Stance              Type   1-Action         Requirements     You are wielding a ranged weapon        You take aim to pick off nearby enemies quickly. When using a ranged weapon, you gain a +2 bonus to attacks against targets within 30 feet.",
+        "url": "/point-blank-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Supressive Fire",
+        "excerpt": "Type   Passive         The overwhelming number of your attacks leaves an enemy flustered. If you critically hit a creature with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, it’s flat-footed until the start of your next turn.",
+        "url": "/supressive-fire.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Triple Shot",
+        "excerpt": "Type   Passive         Prerequisites     Double Shot        You can quickly fire multiple shots with greater control. When you use Double Shot, you can make the attacks against the same target. You can add an additional action to Double Shot to make three ranged Strikes instead of two. If you do, the penalty is -4 instead of -2. All attacks count toward MAP, but the penalty doesn’t increase until after you’ve made all of them.",
+        "url": "/triple-shot.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Greater Supressive Fire",
+        "excerpt": "Type   Passive         Prerequisites     Supressive Fire        Even a single missile can throw off your enemy’s balance, and more powerful attacks leave it flustered for longer. If you hit a creature with a ranged weapon, it’s flat-footed until the start of your next turn. If you critically hit a creature or hit it twice on the same turn with a ranged weapon, it’s flat-footed until the end of your next turn instead.",
+        "url": "/greater-supressive-fire.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Multishot Stance",
+        "excerpt": "Stance              Type   1-Action         Prerequisites     Triple Shot        Requirements     You are wielding a ranged weapon without the reload trait        You lock yourself in a stable position so you can fire swiftly and accurately. While you are in this stance, your penalty for Double Shot is reduced to -1, or -2 if you add the extra action to make three Strikes. If you move from your position, this stance ends.",
+        "url": "/multishot-stance.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Impossible Volley",
+        "excerpt": "Flourish            Open              Type   3-Action         Requirements     You are wielding a ranged weapon without the reload trait        You fire a volley at all foes in an area. Make one Strike with a -2 penalty against each enemy within a 10-foot-radius burst. Roll the damage only once for all targets. Each attack counts towards MAP, but do not increase your penalty until you have made all your attacks.",
+        "url": "/impossible-volley.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Charming Words",
+        "excerpt": "Auditory            Incapacitation            Linguistic            Mental            Spell              Type   1-Action         Cost     1 Mana        Range     30 feet        Save     Will        Duration     Until the start of your next turn        You whisper enchanting words to deflect your foe’s ire. The target must attempt a Will save.                   Critical Success       The target is unaffected                 Success       The target takes a -1 penalty to attack rolls and damage rolls against you                 Failure       The target can't use hostile actions against you                 Critical Failure       The target is stunned 1 and can't use hostile actions against you",
+        "url": "/charming-words.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Command",
+        "excerpt": "Auditory            Linguistic            Mental            Spell              Type   2-Action         Cost     1 Mana        Range     30 feet        Save     Will        Duration     Until the end of the target's next turn        You should a command that’s hard to ignore. You can command the target to approach you, run away (as if it had the fleeing condition), release what it’s holding, drop prone, or stand in place. It can’t Delay or take any reactions until it has obeyed your command. The effects depend on the target’s Will save.      Heightened (total 5 Mana)   You can target up to 10 creatures                        Success       The creature is unaffected                 Failure       For the first action on its next turn, the creature must use a single action to do as you command                 Critical Failure       The target must use all its actions on its next turn to obey your command",
+        "url": "/command.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Phantom Pain",
+        "excerpt": "Mental            Spell              Type   2-Action         Cost     1 Mana        Range     30 feet        Save     Will        Duration     1 minute        Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage. The target must attempt a Will save.                   Critical Success       The target is unaffected                 Success       The target takes full initial damage but no persistent damage, and the spell ends immediately                 Failure       The target takes full initial and persistant damage, and the target is sickened 1                 Critical Failure       As failure, but the target is sickened 2",
+        "url": "/phantom-pain.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Confusion",
+        "excerpt": "Emotion            Mental            Spell              Type   2-Action         Cost     4 Mana        Range     30 feet        Save     Will        You befuddle your target with strange impulses, causing it to act randomly. The effects are determined by the target’s Will save. You can Dismiss the spell.      Heightened (total 8 Mana)   You can target up to 10 creatures                   Critical Success       The target is unaffected                 Success       The target babbles incoherently and is stunned 1                 Failure       The target is confused for 1 minute, and can attempt a new a new at the end of each of its turn to end the confusion                 Critical Failure       The target is confused for 1 minute, with no save to end early",
+        "url": "/confusion.html"
+      }
+      
+        ,
+      
+    
+  
+    
+      
+
+      {
+        "title": "Mind Reading",
+        "excerpt": "Detection            Mental            Spell              Type   2-Action         Cost     3 Mana        Range     30 feet        Save     Will        Duration     1 round, or sustained up to 1 minute        With a cursory mental touch, you attempt to readh the target’s mind. It must attempt a Will save. The target then becomes temporarily immune to your Mind Reading power for 1 hour.                   Critical Success       The target perceives vague surface thoughts from you                 Success       You find out whether the target's Intelligence is higher than, equal to, or lower than yours                 Failure       You perceive vague surface thoughts from the target, and you find out whether its Intelligence is higher than, equal to, or lower than yours                 Critical Failure       As failure, and for the duration of the spell, you can Sustain to detect the target's surface throughts again",
+        "url": "/mind-reading.html"
       }
       
         ,
@@ -1263,7 +2004,7 @@ var store = [
 
       {
         "title": "Defensive Roll",
-        "excerpt": "Encounter         Type   Free         Trigger     A physical attack would reduce you to 0 HP        Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.",
+        "excerpt": "Encounter              Type   Free         Trigger     A physical attack would reduce you to 0 HP        Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.",
         "url": "/defensive-roll.html"
       }
       
@@ -1288,35 +2029,9 @@ var store = [
       
 
       {
-        "title": "Far Shot",
-        "excerpt": "Type   Passive         Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.",
-        "url": "/far-shot.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Deadly Aim",
-        "excerpt": "Open         Type   1-Action         You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a -2 penalty. Your Strike’s damage increases by 2 + Prof.",
-        "url": "/deadly-aim.html"
-      }
-      
-        ,
-      
-    
-  
-    
-      
-
-      {
-        "title": "Incredible Aim",
-        "excerpt": "Concentrate         Type   2-Action         By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 bonus to the attack roll and ignore the target’s concealed condition.",
-        "url": "/incredible-aim.html"
+        "title": "Master Strike",
+        "excerpt": "Incapacitation              Type   Free         Trigger     Your Strike hits a flat-footed creature and deals damage        The target attempts a Fortitude save against a DC of 10 + Precision + Prof. It then becomes temporarily immune to your Master Strike for 1 day.                   Critical Success       The target is unaffected                 Success       The target takes a -2 penalty to Strength until the end of your next turn                 Failure       The target is paralyzed for 4 rounds                 Critical Failure       The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (your choice)",
+        "url": "/master-strike.html"
       }
       
         ,
