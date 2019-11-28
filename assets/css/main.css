@@ -1764,11 +1764,15 @@ tr:nth-child(odd) { background-color: #e2cba4; }
 
 .traits { margin: -.5em 0 0 0; padding-left: 0; }
 
-.trait { display: inline; background: #5f1616; border: #ceb566 2px solid; color: #fff; padding: 1px 8px; font-size: 0.75em !important; text-transform: uppercase; }
+.trait { display: inline; background: #5f1616; border: #ceb566 2px solid; padding: 1px 8px; font-size: 0.75em !important; text-transform: uppercase; }
+
+.trait > a { text-decoration: none; color: #fff; }
 
 .page__content dl { margin: 0; }
 
 .page__content dl + dl { margin-top: 0.25em; }
+
+.page__content dl + p { margin-top: 0.5em; }
 
 .page__content dt, dd { display: inline; }
 

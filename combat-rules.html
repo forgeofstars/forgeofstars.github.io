@@ -337,15 +337,17 @@
 
 <h2 id="multiple-attack-penalty">Multiple Attack Penalty</h2>
 
-<p>The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty (MAP). Whenever you make an attack during your turn, you take a -5 penalty to your attack roll for each <a href="/traits.html#attack"><span class="trait">Attack</span></a> power you’ve used so far this turn. Some weapons and abilities reduce MAPs, such as <a href="weapons.html#agile">agile</a> weapons, which reduce the penalty to -4 per attack.</p>
+<p>The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty (MAP). Whenever you make an attack during your turn, you take a -5 penalty to your attack roll for each <span class="trait"><a href="/traits.html#attack">Attack</a></span> power you’ve used so far this turn. Some weapons and abilities reduce MAPs, such as <a href="weapons.html#agile">agile</a> weapons, which reduce the penalty to -4 per attack.</p>
 
-<p>Always calculate your MAP for the weapon you’re using on the attack. For example, imagine you’re wielding a chain flail in one hand and a bolter pistol (which has the agile trait) in the other. The first Strike you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take a -5 penalty if you use the chain flail or a -4 penalty if you use the bolter pistol. The third Strike will take a -10 penalty if you use the chain flail or a -8 penalty if you use the bolter pistol, no matter what weapon you used for your previous Strikes.</p>
+<p>Always calculate your MAP for the weapon you’re using on the attack. For example, imagine you’re wielding a chain flail in one hand and a bolter pistol (which has the agile trait) in the other. The first <a href="basic-powers.html#strike">Strike</a> you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take a -5 penalty if you use the chain flail or a -4 penalty if you use the bolter pistol. The third Strike will take a -10 penalty if you use the chain flail or a -8 penalty if you use the bolter pistol, no matter what weapon you used for your previous Strikes.</p>
 
 <h2 id="range-penalty">Range Penalty</h2>
 
-<p>Ranged and thrown weapons each have a listed range increment, and attacks with them grow less accurate against targets farther away. If the distance to your target is less than the listed range increment, you take no penalty to the attack roll. If you’re attacking beyond that distance, you take a -5 penalty to the attack roll for each additional increment beyond the first. The <a href="/take-aim.html">Take Aim</a> action reduces this penalty to -2 per range increment. You can attempt to attack up to six range increments away.</p>
+<p>Ranged and thrown weapons each have a listed range increment, and attacks with them grow less accurate against targets farther away. If the distance to your target is less than the listed range increment, you take no penalty to the attack roll. If you’re attacking beyond that distance, you take a -5 penalty to the attack roll for each additional increment beyond the first. The <a href="basic-powers.html#take-aim">Take Aim</a> basic power reduces this penalty to -2 per range increment. You can attempt to attack up to six range increments away.</p>
 
 <p>For example, the range increment of a blaster rifle is 120 feet. If you’re shooting at a target within 120 feet, you take no penalty. If your target is between 120 and 240 feet, you take a -5 penalty. If your target is 240 to 360 feet away, you take a -10 penalty, and so on, until you reach the last range increment: if your target is 600 to 720 feet away, you take a -25 penalty.</p>
+
+<p>As another example, imagine you’re wielding a bowcaster sniper, which has a range increment of 250 feet, and you used the <a href="basic-powers.html#take-aim">Take Aim</a> power immediately before firing. If you’re shooting at a target within 250 feet, you take no penalty. If you target is between 250 and 500 feet, you take a -2 penalty, and so on, until you reach the last range increment: if your target is 1250 to 1500 feet away, you take a -10 penalty.</p>
 
 <h2 id="explosives">Explosives</h2>
 
@@ -353,7 +355,7 @@
 
 <h2 id="taking-cover">Taking Cover</h2>
 
-<p>Having cover from enemy fire is extremely important in any gunfight. Whenever you’re behind an object, you gain a bonus to AC, Reflex saves, and Stealth rolls against enemies on the other side of the cover. The size of the bonus depends on the quality of the cover, as shown in the table before. The <a href="/take-cover.html">Take Cover</a> action doubles this bonus.</p>
+<p>Having cover from enemy fire is extremely important in any gunfight. Whenever you’re behind an object, you gain a bonus to AC, Reflex saves, and Stealth rolls against enemies on the other side of the cover. The size of the bonus depends on the quality of the cover, as shown in the table before. The <a href="basic-powers.html#take-cover">Take Cover</a> action doubles this bonus.</p>
 
 <table>
   <tr>
@@ -364,7 +366,7 @@
   <tr>
     <td>Flimsy</td>
     <td>+1</td>
-    <td>A lamppost, a thin sheet of metal, a store countertop</td>
+    <td>A lamppost, a thin sheet of metal, another creature</td>
   </tr>
   <tr>
     <td>Standard</td>
@@ -382,6 +384,20 @@
 
 <p>If you start combat with a creature that isn’t prepared for an imminent attack, that creature is surprised. A surprised creature cannot use actions during the first round of combat. Creatures that are surprised, that can’t see you, or that otherwise aren’t expecting you to attack are <a href="conditions.html#flat-footed">flat-footed</a> against you.</p>
 
+<h2 id="movement-details">Movement Details</h2>
+
+<p>If you’re using a grid during combat, one square generally corresponds to 5 feet. Because moving diagonally covers more ground, the first square of diagonal movement in a turn counts as 5 feet, the second counts as 10 feet, and further squares alternate between the two.</p>
+
+<p>While you’re climbing, swimming, or crawling, your Speed is halved. Climbing a vertical surface or swimming in rough water usually requires an <a href="skills.html">Athletics</a> roll.</p>
+
+<h3 id="difficult-terrain">Difficult Terrain</h3>
+
+<p>Some terrain, like dense thorn bushes, uneven rocks, or slippery ice, is very difficult to move through. Your Speed is halved while you move through difficult terrain.</p>
+
+<h3 id="falling">Falling</h3>
+
+<p>If there is nothing supporting your character, you fall. You fall up to 500 feet per round. When you fall 10 or more feet, you take 1d6 damage for each 10 feet you fall, up to a cap of 50d6 damage. The number of dice is reduced by half if you fall onto a soft surface, such as a pile of hay or a pool of water. You land prone if you take any damage from a fall.</p>
+
 <h2 id="health">Health</h2>
 
 <p>Your HP can never go above your maximum HP, and your HP can never go below 0. While your HP is exactly 0, you have the <a href="conditions.html#downed">downed</a> condition.</p>
@@ -392,11 +408,11 @@
 
 <h2 id="dying">Dying</h2>
 
-<p>When you take damage that brings your HP to 0, you gain the <a href="conditions.html#dying-x">dying 1</a> condition. If this damage was from an enemy’s critical hit or a critical failure on your save, you instead gain the <a href="conditions.html#dying-x">dying 2</a> condition. While you have the dying condition, you are bleeding out, and you must make a death save at the start of each of your turns. Other creatures can use the <a href="basic-powers.html#administer-first-aid">Administer First Aid</a> power to try to stabilize you.</p>
+<p>When you take damage that brings your HP to 0, you gain the <a href="conditions.html#dying">dying</a> 1 condition. If this damage was from an enemy’s critical hit or a critical failure on your save, you instead gain the <a href="conditions.html#dying">dying</a> 2 condition. While you have the dying condition, you are bleeding out, and you must make a death save at the start of each of your turns. Other creatures can use the <a href="basic-powers.html#administer-first-aid">Administer First Aid</a> power to try to stabilize you.</p>
 
 <h3 id="death-save">Death Save</h3>
 
-<p>A death save is a Fortitude save against DC 10.</p>
+<p>A death save is a <a href="skills.html">Fortitude</a> save against DC 10.</p>
 
 <dl>
   <dt>Critical Success</dt>
